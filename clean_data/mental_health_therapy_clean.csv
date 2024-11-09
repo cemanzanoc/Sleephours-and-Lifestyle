@@ -1,4 +1,4 @@
-Patient ID,Age,Gender,Diagnosis,Symptom Severity,Medication,Therapy Type,Treatment Duration (weeks),Outcome,Treatment Progress,Adherence to Treatment (%)
+patient_id,age,gender,diagnosis,symptom_severity,medication,therapy_type,treatment_duration_(weeks),outcome,treatment_progress,adherence_to_treatment_(%)
 1,43,Female,Major Depressive Disorder,10,Mood Stabilizers,Interpersonal Therapy,11,Deteriorated,7,66
 2,40,Female,Major Depressive Disorder,9,Antipsychotics,Interpersonal Therapy,11,No Change,7,78
 3,55,Female,Major Depressive Disorder,6,SSRIs,Mindfulness-Based Therapy,14,Deteriorated,5,62

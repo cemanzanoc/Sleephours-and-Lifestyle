@@ -1,4 +1,4 @@
-Patient ID,Age,Gender,Diagnosis,Symptom Severity,Mood Score,Sleep Quality,Physical Activity (hrs/week),Stress Level
+patient_id,age,gender,diagnosis,symptom_severity,mood_score,sleep_quality,physical activity_(hrs/week),stress_level
 1,43,Female,Major Depressive Disorder,10,5,8,5,9
 2,40,Female,Major Depressive Disorder,9,5,4,7,7
 3,55,Female,Major Depressive Disorder,6,3,4,3,7
