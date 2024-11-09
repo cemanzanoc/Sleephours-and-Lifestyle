@@ -1,0 +1,501 @@
+,Patient ID,Age,Gender,Diagnosis,Symptom Severity,Mood Score,Sleep Quality,Physical Activity (hrs/week),Stress Level
+0,1,43,Female,Major Depressive Disorder,10,5,8,5,9
+1,2,40,Female,Major Depressive Disorder,9,5,4,7,7
+2,3,55,Female,Major Depressive Disorder,6,3,4,3,7
+3,4,34,Female,Major Depressive Disorder,6,3,6,5,8
+4,5,52,Male,Panic Disorder,7,6,6,8,5
+5,6,28,Male,Panic Disorder,8,7,6,4,9
+6,7,59,Male,Generalized Anxiety,6,6,5,3,8
+7,8,32,Female,Major Depressive Disorder,5,3,5,2,5
+8,9,21,Female,Major Depressive Disorder,6,7,7,10,5
+9,10,21,Female,Panic Disorder,9,5,9,7,8
+10,11,42,Female,Panic Disorder,6,6,7,2,5
+11,12,54,Female,Panic Disorder,8,8,5,5,8
+12,13,46,Female,Generalized Anxiety,7,4,9,4,9
+13,14,19,Male,Bipolar Disorder,6,7,9,10,10
+14,15,23,Female,Panic Disorder,9,8,6,1,7
+15,16,38,Female,Generalized Anxiety,10,3,8,2,5
+16,17,30,Male,Bipolar Disorder,10,8,5,5,9
+17,18,28,Female,Bipolar Disorder,8,4,7,6,8
+18,19,52,Female,Generalized Anxiety,7,3,4,9,6
+19,20,37,Male,Bipolar Disorder,5,5,4,5,9
+20,21,19,Male,Major Depressive Disorder,8,4,5,7,5
+21,22,41,Female,Bipolar Disorder,5,7,9,7,9
+22,23,50,Male,Generalized Anxiety,7,4,5,1,10
+23,24,53,Female,Panic Disorder,9,5,9,10,8
+24,25,60,Male,Major Depressive Disorder,9,6,5,8,9
+25,26,19,Female,Bipolar Disorder,9,7,9,6,8
+26,27,23,Male,Bipolar Disorder,7,5,7,6,5
+27,28,56,Male,Generalized Anxiety,10,5,8,1,7
+28,29,58,Male,Major Depressive Disorder,8,6,7,6,6
+29,30,41,Female,Major Depressive Disorder,7,6,6,9,8
+30,31,44,Male,Major Depressive Disorder,6,3,5,3,7
+31,32,47,Male,Bipolar Disorder,7,6,7,5,9
+32,33,39,Female,Generalized Anxiety,10,6,4,3,6
+33,34,27,Female,Major Depressive Disorder,7,7,4,9,8
+34,35,53,Male,Generalized Anxiety,6,5,6,10,6
+35,36,53,Male,Bipolar Disorder,10,6,5,7,9
+36,37,45,Female,Bipolar Disorder,5,5,6,6,9
+37,38,33,Male,Generalized Anxiety,5,6,6,2,8
+38,39,31,Male,Major Depressive Disorder,6,8,4,10,6
+39,40,41,Female,Bipolar Disorder,8,7,7,2,7
+40,41,46,Female,Generalized Anxiety,9,8,8,1,7
+41,42,56,Male,Panic Disorder,5,7,6,4,9
+42,43,31,Female,Panic Disorder,6,5,9,10,7
+43,44,50,Female,Bipolar Disorder,8,8,7,2,9
+44,45,40,Female,Panic Disorder,10,8,7,8,5
+45,46,43,Female,Bipolar Disorder,9,6,5,10,10
+46,47,48,Male,Generalized Anxiety,10,5,5,9,9
+47,48,26,Male,Generalized Anxiety,6,3,5,6,9
+48,49,41,Female,Major Depressive Disorder,7,6,9,10,10
+49,50,46,Female,Generalized Anxiety,10,5,4,2,9
+50,51,40,Male,Generalized Anxiety,6,5,7,2,7
+51,52,31,Female,Panic Disorder,8,6,9,5,8
+52,53,38,Female,Bipolar Disorder,5,8,6,8,7
+53,54,18,Male,Panic Disorder,7,4,4,1,10
+54,55,28,Female,Panic Disorder,10,7,6,4,9
+55,56,29,Female,Bipolar Disorder,10,4,9,3,6
+56,57,43,Male,Panic Disorder,8,4,5,8,6
+57,58,31,Male,Major Depressive Disorder,6,5,4,5,7
+58,59,35,Female,Panic Disorder,10,3,9,3,8
+59,60,47,Male,Bipolar Disorder,10,4,6,4,7
+60,61,56,Female,Generalized Anxiety,9,8,7,1,6
+61,62,41,Female,Generalized Anxiety,6,4,7,6,9
+62,63,30,Male,Bipolar Disorder,10,6,6,3,6
+63,64,37,Male,Major Depressive Disorder,8,5,8,1,9
+64,65,23,Female,Generalized Anxiety,7,5,7,8,7
+65,66,30,Male,Bipolar Disorder,5,4,4,9,6
+66,67,28,Female,Major Depressive Disorder,10,6,4,1,7
+67,68,35,Female,Major Depressive Disorder,7,3,5,9,8
+68,69,39,Female,Major Depressive Disorder,10,7,4,3,10
+69,70,52,Female,Bipolar Disorder,9,4,6,10,8
+70,71,51,Female,Generalized Anxiety,9,7,9,8,5
+71,72,57,Male,Major Depressive Disorder,5,4,5,3,5
+72,73,60,Female,Major Depressive Disorder,9,6,8,8,8
+73,74,57,Male,Panic Disorder,5,5,8,9,7
+74,75,24,Male,Major Depressive Disorder,5,8,6,5,8
+75,76,45,Female,Panic Disorder,9,3,6,1,10
+76,77,21,Male,Generalized Anxiety,10,5,5,5,8
+77,78,32,Female,Bipolar Disorder,5,8,6,1,5
+78,79,29,Male,Bipolar Disorder,10,5,7,2,5
+79,80,29,Male,Generalized Anxiety,5,3,6,10,5
+80,81,21,Male,Major Depressive Disorder,8,3,7,1,5
+81,82,23,Male,Major Depressive Disorder,6,6,6,6,7
+82,83,33,Male,Panic Disorder,8,6,7,8,5
+83,84,31,Female,Generalized Anxiety,7,8,8,6,9
+84,85,57,Male,Generalized Anxiety,10,6,7,1,6
+85,86,19,Male,Panic Disorder,7,3,5,5,5
+86,87,22,Male,Generalized Anxiety,6,6,6,6,6
+87,88,50,Male,Major Depressive Disorder,5,3,7,1,9
+88,89,56,Female,Panic Disorder,9,7,9,10,7
+89,90,22,Female,Major Depressive Disorder,9,7,7,4,6
+90,91,55,Female,Generalized Anxiety,9,6,8,5,9
+91,92,43,Female,Bipolar Disorder,9,8,7,10,7
+92,93,49,Female,Panic Disorder,9,6,8,5,9
+93,94,22,Female,Bipolar Disorder,8,3,8,5,6
+94,95,49,Male,Bipolar Disorder,6,8,8,6,10
+95,96,40,Female,Major Depressive Disorder,5,8,4,2,9
+96,97,51,Male,Major Depressive Disorder,6,5,6,8,6
+97,98,46,Male,Major Depressive Disorder,10,8,9,3,6
+98,99,43,Female,Panic Disorder,6,5,8,4,5
+99,100,24,Male,Generalized Anxiety,5,7,5,5,9
+100,101,56,Male,Generalized Anxiety,7,7,6,5,8
+101,102,23,Male,Bipolar Disorder,7,5,8,3,8
+102,103,31,Male,Bipolar Disorder,6,4,6,5,7
+103,104,36,Male,Major Depressive Disorder,9,6,4,3,5
+104,105,44,Female,Generalized Anxiety,10,7,7,6,8
+105,106,19,Female,Panic Disorder,8,8,9,9,7
+106,107,40,Male,Major Depressive Disorder,7,3,6,1,7
+107,108,30,Male,Generalized Anxiety,9,7,7,8,6
+108,109,23,Male,Panic Disorder,7,3,4,6,10
+109,110,30,Female,Bipolar Disorder,5,4,5,4,10
+110,111,41,Male,Generalized Anxiety,5,8,8,2,9
+111,112,58,Female,Generalized Anxiety,10,8,6,3,8
+112,113,37,Male,Bipolar Disorder,5,8,7,2,6
+113,114,20,Female,Major Depressive Disorder,5,8,4,2,5
+114,115,28,Male,Generalized Anxiety,7,7,8,3,6
+115,116,33,Male,Bipolar Disorder,8,5,4,4,8
+116,117,43,Male,Bipolar Disorder,5,4,6,3,5
+117,118,31,Male,Bipolar Disorder,5,7,8,3,5
+118,119,29,Male,Bipolar Disorder,9,6,6,10,9
+119,120,45,Female,Bipolar Disorder,8,6,9,3,8
+120,121,50,Male,Major Depressive Disorder,5,4,8,3,7
+121,122,19,Male,Panic Disorder,8,4,6,3,7
+122,123,35,Female,Generalized Anxiety,10,6,6,5,8
+123,124,50,Male,Major Depressive Disorder,8,4,5,5,7
+124,125,53,Male,Generalized Anxiety,7,5,9,7,6
+125,126,43,Male,Generalized Anxiety,7,3,9,8,10
+126,127,47,Female,Bipolar Disorder,10,4,9,6,5
+127,128,53,Male,Major Depressive Disorder,5,3,8,5,8
+128,129,31,Male,Bipolar Disorder,6,3,4,9,10
+129,130,28,Male,Generalized Anxiety,9,4,5,7,10
+130,131,35,Male,Generalized Anxiety,9,5,6,9,5
+131,132,50,Male,Bipolar Disorder,9,5,7,4,8
+132,133,47,Female,Panic Disorder,5,6,9,6,8
+133,134,41,Female,Major Depressive Disorder,10,4,9,3,8
+134,135,37,Female,Bipolar Disorder,9,3,6,3,8
+135,136,42,Female,Major Depressive Disorder,5,6,7,4,9
+136,137,32,Male,Panic Disorder,7,7,8,7,9
+137,138,53,Male,Generalized Anxiety,9,8,5,6,7
+138,139,57,Female,Major Depressive Disorder,10,6,5,6,9
+139,140,57,Male,Generalized Anxiety,8,5,5,7,9
+140,141,41,Female,Bipolar Disorder,7,5,5,8,6
+141,142,55,Male,Generalized Anxiety,10,3,9,3,10
+142,143,50,Male,Generalized Anxiety,6,5,5,5,9
+143,144,21,Male,Bipolar Disorder,9,5,7,3,6
+144,145,21,Female,Major Depressive Disorder,8,8,7,1,5
+145,146,29,Male,Panic Disorder,10,6,4,3,8
+146,147,48,Male,Major Depressive Disorder,8,5,9,9,9
+147,148,45,Female,Generalized Anxiety,6,3,4,3,5
+148,149,46,Male,Generalized Anxiety,5,3,7,10,8
+149,150,47,Male,Bipolar Disorder,10,6,5,7,5
+150,151,22,Female,Panic Disorder,10,4,8,3,10
+151,152,19,Male,Panic Disorder,7,4,5,10,5
+152,153,58,Male,Generalized Anxiety,5,5,5,10,8
+153,154,21,Female,Panic Disorder,9,8,8,1,9
+154,155,26,Female,Major Depressive Disorder,5,4,5,4,6
+155,156,27,Female,Generalized Anxiety,7,3,7,5,10
+156,157,44,Male,Panic Disorder,6,8,7,6,8
+157,158,60,Male,Generalized Anxiety,10,6,6,10,5
+158,159,55,Female,Major Depressive Disorder,5,5,7,3,9
+159,160,26,Female,Generalized Anxiety,5,3,7,4,8
+160,161,18,Male,Panic Disorder,7,6,4,4,10
+161,162,22,Male,Generalized Anxiety,5,3,6,3,5
+162,163,21,Female,Panic Disorder,8,6,5,6,7
+163,164,35,Male,Major Depressive Disorder,6,6,4,2,10
+164,165,37,Male,Bipolar Disorder,8,6,8,3,7
+165,166,52,Female,Generalized Anxiety,5,6,6,1,8
+166,167,19,Male,Major Depressive Disorder,8,8,9,2,5
+167,168,23,Male,Major Depressive Disorder,10,3,7,7,10
+168,169,28,Male,Panic Disorder,6,3,9,7,10
+169,170,56,Female,Generalized Anxiety,8,6,5,4,6
+170,171,24,Male,Major Depressive Disorder,5,4,4,8,10
+171,172,47,Female,Bipolar Disorder,7,7,6,6,9
+172,173,19,Male,Panic Disorder,8,6,8,5,6
+173,174,55,Female,Bipolar Disorder,6,3,5,8,5
+174,175,51,Male,Major Depressive Disorder,9,8,5,7,6
+175,176,24,Male,Panic Disorder,8,6,6,4,10
+176,177,31,Female,Major Depressive Disorder,8,7,5,7,5
+177,178,56,Male,Major Depressive Disorder,6,4,4,3,6
+178,179,41,Male,Panic Disorder,6,5,7,3,9
+179,180,19,Male,Generalized Anxiety,7,7,7,10,7
+180,181,23,Male,Generalized Anxiety,10,8,8,1,9
+181,182,28,Male,Major Depressive Disorder,6,5,6,6,7
+182,183,18,Female,Bipolar Disorder,10,7,8,10,8
+183,184,59,Female,Major Depressive Disorder,8,4,7,5,9
+184,185,40,Female,Panic Disorder,8,7,6,1,10
+185,186,54,Female,Generalized Anxiety,10,6,5,9,7
+186,187,25,Male,Generalized Anxiety,7,8,9,4,7
+187,188,36,Male,Major Depressive Disorder,8,8,5,8,7
+188,189,60,Female,Generalized Anxiety,10,7,5,7,5
+189,190,35,Male,Major Depressive Disorder,7,8,8,10,7
+190,191,56,Female,Panic Disorder,7,8,4,3,5
+191,192,58,Female,Bipolar Disorder,6,6,6,1,5
+192,193,47,Male,Bipolar Disorder,10,3,7,8,9
+193,194,53,Female,Panic Disorder,6,6,8,6,10
+194,195,27,Male,Panic Disorder,8,3,6,8,8
+195,196,27,Female,Bipolar Disorder,5,8,4,4,6
+196,197,50,Male,Generalized Anxiety,8,7,8,10,7
+197,198,31,Male,Panic Disorder,6,7,8,5,6
+198,199,24,Female,Major Depressive Disorder,10,6,9,4,8
+199,200,54,Female,Bipolar Disorder,9,7,9,5,9
+200,201,24,Female,Panic Disorder,7,7,9,4,9
+201,202,50,Male,Generalized Anxiety,7,3,9,5,9
+202,203,30,Male,Major Depressive Disorder,7,6,6,6,7
+203,204,48,Male,Major Depressive Disorder,9,6,4,6,6
+204,205,26,Male,Generalized Anxiety,7,4,6,6,9
+205,206,31,Male,Panic Disorder,7,3,4,3,9
+206,207,43,Female,Bipolar Disorder,5,5,6,9,10
+207,208,59,Female,Panic Disorder,8,7,4,5,6
+208,209,26,Male,Generalized Anxiety,10,8,8,5,6
+209,210,50,Male,Generalized Anxiety,6,5,9,3,7
+210,211,46,Female,Bipolar Disorder,6,5,7,8,9
+211,212,40,Female,Major Depressive Disorder,7,4,8,8,10
+212,213,46,Male,Bipolar Disorder,7,5,4,1,10
+213,214,51,Female,Major Depressive Disorder,8,3,4,7,5
+214,215,39,Male,Panic Disorder,5,6,4,4,9
+215,216,21,Female,Generalized Anxiety,7,4,7,8,8
+216,217,49,Female,Panic Disorder,7,7,8,3,9
+217,218,34,Female,Major Depressive Disorder,10,3,5,8,7
+218,219,20,Female,Bipolar Disorder,10,4,6,8,8
+219,220,44,Female,Major Depressive Disorder,10,4,6,9,5
+220,221,40,Male,Generalized Anxiety,5,3,7,4,8
+221,222,49,Female,Major Depressive Disorder,8,6,7,1,9
+222,223,60,Male,Panic Disorder,9,5,8,4,5
+223,224,47,Male,Bipolar Disorder,5,5,6,5,9
+224,225,51,Female,Panic Disorder,8,5,8,10,10
+225,226,21,Male,Generalized Anxiety,8,8,4,2,7
+226,227,33,Male,Major Depressive Disorder,6,6,7,1,6
+227,228,22,Male,Generalized Anxiety,6,3,9,1,6
+228,229,41,Female,Generalized Anxiety,8,6,5,7,5
+229,230,40,Female,Generalized Anxiety,5,5,7,1,6
+230,231,22,Female,Panic Disorder,5,8,9,1,6
+231,232,34,Male,Generalized Anxiety,9,6,4,1,7
+232,233,55,Female,Bipolar Disorder,10,6,7,5,7
+233,234,18,Female,Bipolar Disorder,8,6,7,7,9
+234,235,29,Male,Generalized Anxiety,9,5,9,10,10
+235,236,27,Male,Generalized Anxiety,6,6,6,2,10
+236,237,50,Male,Bipolar Disorder,8,8,7,5,7
+237,238,18,Male,Bipolar Disorder,9,4,4,7,6
+238,239,54,Female,Major Depressive Disorder,6,4,8,3,10
+239,240,60,Male,Generalized Anxiety,8,8,8,1,8
+240,241,20,Female,Bipolar Disorder,10,4,6,7,5
+241,242,38,Female,Generalized Anxiety,9,3,5,8,8
+242,243,18,Male,Panic Disorder,9,8,5,1,8
+243,244,24,Female,Generalized Anxiety,7,5,9,10,10
+244,245,20,Female,Panic Disorder,8,6,4,4,10
+245,246,26,Female,Generalized Anxiety,10,6,8,10,9
+246,247,54,Male,Panic Disorder,9,4,8,3,10
+247,248,44,Female,Major Depressive Disorder,6,7,4,3,8
+248,249,47,Male,Panic Disorder,7,6,4,5,6
+249,250,32,Male,Major Depressive Disorder,8,5,5,4,6
+250,251,56,Male,Bipolar Disorder,7,8,9,10,10
+251,252,30,Female,Bipolar Disorder,6,4,8,2,6
+252,253,31,Male,Panic Disorder,8,7,6,9,5
+253,254,38,Male,Bipolar Disorder,5,7,4,6,9
+254,255,55,Female,Panic Disorder,7,5,9,3,6
+255,256,26,Male,Major Depressive Disorder,8,6,8,6,10
+256,257,26,Male,Generalized Anxiety,10,8,8,7,8
+257,258,22,Female,Panic Disorder,8,6,7,10,6
+258,259,31,Female,Panic Disorder,10,3,7,1,9
+259,260,44,Male,Generalized Anxiety,6,6,5,6,10
+260,261,20,Male,Generalized Anxiety,6,4,6,2,6
+261,262,51,Female,Major Depressive Disorder,6,4,6,3,7
+262,263,37,Female,Major Depressive Disorder,8,8,9,6,8
+263,264,35,Female,Generalized Anxiety,7,5,9,1,5
+264,265,26,Female,Bipolar Disorder,7,7,8,3,5
+265,266,31,Female,Major Depressive Disorder,7,6,8,4,7
+266,267,23,Male,Major Depressive Disorder,10,8,8,7,7
+267,268,52,Female,Panic Disorder,8,6,4,3,10
+268,269,35,Female,Major Depressive Disorder,8,4,6,3,6
+269,270,36,Male,Panic Disorder,9,3,8,8,9
+270,271,30,Male,Bipolar Disorder,8,5,4,2,10
+271,272,51,Male,Bipolar Disorder,10,7,6,1,5
+272,273,56,Female,Generalized Anxiety,5,6,7,8,10
+273,274,33,Female,Major Depressive Disorder,10,6,8,5,10
+274,275,46,Male,Generalized Anxiety,9,7,9,8,8
+275,276,45,Male,Bipolar Disorder,6,4,8,10,10
+276,277,24,Male,Panic Disorder,5,3,6,4,6
+277,278,49,Female,Generalized Anxiety,8,3,7,1,8
+278,279,59,Female,Panic Disorder,6,5,7,5,6
+279,280,32,Male,Panic Disorder,6,7,9,2,10
+280,281,48,Male,Panic Disorder,6,5,5,5,6
+281,282,35,Male,Major Depressive Disorder,8,5,5,8,9
+282,283,52,Male,Major Depressive Disorder,8,3,5,1,9
+283,284,44,Female,Bipolar Disorder,7,8,8,8,5
+284,285,28,Female,Generalized Anxiety,10,5,9,5,9
+285,286,35,Male,Generalized Anxiety,9,5,4,1,7
+286,287,41,Male,Bipolar Disorder,8,6,5,7,5
+287,288,49,Male,Major Depressive Disorder,6,6,7,9,7
+288,289,51,Female,Bipolar Disorder,7,7,9,4,6
+289,290,26,Male,Bipolar Disorder,5,7,5,4,10
+290,291,54,Male,Panic Disorder,7,6,7,3,5
+291,292,30,Female,Panic Disorder,9,7,5,8,5
+292,293,51,Female,Generalized Anxiety,6,4,9,3,6
+293,294,51,Female,Bipolar Disorder,7,8,6,4,9
+294,295,38,Male,Bipolar Disorder,8,4,5,8,7
+295,296,26,Male,Panic Disorder,6,4,7,7,7
+296,297,58,Female,Generalized Anxiety,7,3,6,4,6
+297,298,56,Male,Generalized Anxiety,6,3,4,10,8
+298,299,60,Female,Generalized Anxiety,7,6,4,8,6
+299,300,32,Male,Major Depressive Disorder,5,8,4,3,7
+300,301,54,Female,Generalized Anxiety,9,4,4,6,8
+301,302,55,Female,Generalized Anxiety,7,5,7,6,5
+302,303,32,Male,Generalized Anxiety,6,5,9,2,5
+303,304,37,Female,Major Depressive Disorder,5,7,6,4,5
+304,305,21,Female,Major Depressive Disorder,6,4,5,1,10
+305,306,27,Male,Bipolar Disorder,6,4,6,4,9
+306,307,51,Female,Bipolar Disorder,10,3,9,1,8
+307,308,60,Male,Panic Disorder,6,6,6,10,8
+308,309,24,Male,Panic Disorder,8,7,7,6,8
+309,310,47,Male,Panic Disorder,6,8,6,9,8
+310,311,30,Female,Panic Disorder,9,6,8,3,10
+311,312,32,Male,Panic Disorder,9,4,9,7,6
+312,313,20,Male,Bipolar Disorder,10,4,6,6,7
+313,314,28,Male,Panic Disorder,9,5,6,4,7
+314,315,20,Female,Panic Disorder,5,8,9,10,6
+315,316,28,Female,Generalized Anxiety,10,4,6,6,6
+316,317,60,Female,Major Depressive Disorder,10,3,9,2,6
+317,318,37,Male,Major Depressive Disorder,10,5,5,2,6
+318,319,45,Male,Bipolar Disorder,8,4,9,3,10
+319,320,49,Male,Generalized Anxiety,7,3,6,1,10
+320,321,44,Male,Bipolar Disorder,10,5,8,7,9
+321,322,18,Male,Major Depressive Disorder,5,3,6,5,10
+322,323,50,Female,Major Depressive Disorder,6,6,4,4,7
+323,324,33,Male,Panic Disorder,6,8,8,1,8
+324,325,33,Male,Panic Disorder,9,7,6,9,6
+325,326,36,Male,Bipolar Disorder,9,7,9,5,10
+326,327,37,Male,Bipolar Disorder,7,6,5,6,5
+327,328,42,Female,Major Depressive Disorder,8,3,5,3,9
+328,329,43,Male,Panic Disorder,5,3,5,4,8
+329,330,34,Male,Generalized Anxiety,8,3,6,1,9
+330,331,50,Male,Major Depressive Disorder,7,8,9,4,5
+331,332,46,Male,Major Depressive Disorder,7,7,5,8,10
+332,333,32,Female,Bipolar Disorder,7,7,6,6,9
+333,334,55,Male,Bipolar Disorder,5,3,9,2,6
+334,335,43,Female,Panic Disorder,8,8,6,6,9
+335,336,34,Male,Bipolar Disorder,8,5,9,7,5
+336,337,60,Male,Generalized Anxiety,10,8,9,2,5
+337,338,51,Female,Bipolar Disorder,8,8,5,8,6
+338,339,48,Male,Panic Disorder,7,7,8,3,10
+339,340,42,Female,Generalized Anxiety,7,5,4,8,9
+340,341,21,Male,Generalized Anxiety,9,3,4,6,7
+341,342,25,Female,Panic Disorder,6,4,4,2,9
+342,343,24,Female,Bipolar Disorder,7,8,9,9,10
+343,344,35,Male,Generalized Anxiety,9,3,5,9,8
+344,345,20,Female,Major Depressive Disorder,5,8,4,7,6
+345,346,56,Male,Generalized Anxiety,6,7,8,7,10
+346,347,32,Female,Panic Disorder,6,5,8,2,5
+347,348,35,Female,Bipolar Disorder,6,8,4,1,9
+348,349,34,Female,Major Depressive Disorder,9,7,4,5,8
+349,350,47,Male,Major Depressive Disorder,10,8,8,1,5
+350,351,33,Male,Panic Disorder,5,5,5,6,6
+351,352,39,Male,Bipolar Disorder,9,7,8,3,9
+352,353,57,Female,Panic Disorder,10,8,4,9,7
+353,354,34,Male,Generalized Anxiety,9,8,5,8,5
+354,355,27,Male,Panic Disorder,8,5,6,6,8
+355,356,40,Male,Major Depressive Disorder,5,5,5,5,10
+356,357,60,Male,Panic Disorder,5,5,5,4,8
+357,358,55,Male,Major Depressive Disorder,10,5,6,10,5
+358,359,49,Female,Bipolar Disorder,5,3,8,6,6
+359,360,46,Female,Generalized Anxiety,6,8,9,10,7
+360,361,22,Female,Major Depressive Disorder,10,3,9,4,7
+361,362,56,Male,Panic Disorder,5,7,7,7,10
+362,363,33,Female,Major Depressive Disorder,5,7,5,1,7
+363,364,53,Male,Major Depressive Disorder,8,6,6,9,10
+364,365,50,Female,Major Depressive Disorder,6,7,8,4,10
+365,366,40,Male,Major Depressive Disorder,6,5,8,8,10
+366,367,31,Female,Generalized Anxiety,7,3,9,1,9
+367,368,29,Female,Generalized Anxiety,8,7,8,8,7
+368,369,24,Female,Major Depressive Disorder,10,4,7,2,7
+369,370,31,Male,Panic Disorder,5,4,5,7,5
+370,371,60,Female,Bipolar Disorder,8,8,6,3,9
+371,372,57,Male,Bipolar Disorder,6,6,4,6,6
+372,373,45,Female,Generalized Anxiety,5,4,7,5,10
+373,374,19,Female,Major Depressive Disorder,7,3,5,7,7
+374,375,34,Male,Generalized Anxiety,8,4,7,6,6
+375,376,51,Female,Generalized Anxiety,10,7,7,9,6
+376,377,57,Female,Generalized Anxiety,9,6,6,2,9
+377,378,27,Female,Panic Disorder,9,8,6,1,10
+378,379,33,Male,Panic Disorder,5,4,6,7,10
+379,380,21,Female,Major Depressive Disorder,5,5,7,3,9
+380,381,27,Female,Panic Disorder,7,6,8,5,6
+381,382,32,Male,Generalized Anxiety,9,8,4,6,7
+382,383,54,Female,Generalized Anxiety,10,8,4,1,6
+383,384,39,Female,Generalized Anxiety,8,7,8,5,10
+384,385,44,Female,Generalized Anxiety,6,8,8,1,5
+385,386,37,Male,Major Depressive Disorder,9,6,7,3,10
+386,387,19,Female,Generalized Anxiety,7,7,8,6,9
+387,388,45,Male,Panic Disorder,7,6,6,6,6
+388,389,36,Female,Bipolar Disorder,9,7,6,7,5
+389,390,19,Male,Major Depressive Disorder,10,3,4,9,9
+390,391,25,Male,Generalized Anxiety,9,6,4,9,5
+391,392,34,Female,Bipolar Disorder,9,3,9,10,10
+392,393,19,Female,Major Depressive Disorder,6,6,8,4,7
+393,394,46,Female,Panic Disorder,6,3,9,1,10
+394,395,38,Male,Panic Disorder,9,4,4,4,9
+395,396,19,Male,Panic Disorder,5,5,7,9,10
+396,397,56,Female,Bipolar Disorder,8,3,7,3,9
+397,398,23,Male,Major Depressive Disorder,9,3,5,5,10
+398,399,32,Female,Major Depressive Disorder,7,4,7,3,6
+399,400,33,Male,Generalized Anxiety,8,4,4,5,7
+400,401,49,Male,Generalized Anxiety,6,3,9,2,8
+401,402,59,Male,Panic Disorder,8,7,5,10,7
+402,403,18,Female,Bipolar Disorder,5,8,4,10,5
+403,404,43,Male,Generalized Anxiety,5,4,9,1,5
+404,405,44,Female,Major Depressive Disorder,8,8,6,2,8
+405,406,52,Female,Panic Disorder,9,5,6,6,5
+406,407,25,Female,Bipolar Disorder,5,4,9,4,5
+407,408,50,Male,Generalized Anxiety,9,6,4,6,5
+408,409,58,Female,Major Depressive Disorder,9,5,4,2,10
+409,410,44,Male,Panic Disorder,7,8,6,9,6
+410,411,51,Female,Major Depressive Disorder,9,5,8,1,10
+411,412,31,Female,Generalized Anxiety,5,7,5,9,9
+412,413,32,Female,Generalized Anxiety,10,7,9,10,9
+413,414,20,Male,Bipolar Disorder,8,8,9,10,8
+414,415,33,Female,Bipolar Disorder,9,7,7,3,7
+415,416,59,Male,Bipolar Disorder,8,7,5,5,9
+416,417,35,Female,Bipolar Disorder,10,5,4,6,8
+417,418,31,Male,Bipolar Disorder,6,5,9,10,9
+418,419,45,Female,Generalized Anxiety,7,7,6,2,8
+419,420,55,Female,Generalized Anxiety,8,3,6,10,7
+420,421,28,Male,Bipolar Disorder,6,3,9,9,7
+421,422,20,Female,Major Depressive Disorder,10,8,4,4,7
+422,423,50,Male,Major Depressive Disorder,5,4,5,3,8
+423,424,41,Female,Generalized Anxiety,8,7,8,7,6
+424,425,46,Male,Bipolar Disorder,7,4,8,9,9
+425,426,26,Male,Generalized Anxiety,7,3,5,7,9
+426,427,39,Male,Panic Disorder,9,8,4,10,8
+427,428,52,Female,Panic Disorder,5,8,7,5,8
+428,429,35,Female,Bipolar Disorder,5,5,4,8,9
+429,430,57,Female,Panic Disorder,5,6,6,2,5
+430,431,20,Female,Major Depressive Disorder,7,3,6,5,8
+431,432,51,Female,Bipolar Disorder,7,3,5,4,7
+432,433,57,Male,Panic Disorder,10,6,4,1,5
+433,434,52,Female,Bipolar Disorder,8,8,5,3,7
+434,435,37,Female,Bipolar Disorder,8,3,6,3,5
+435,436,35,Female,Panic Disorder,7,8,7,8,7
+436,437,24,Female,Panic Disorder,9,5,4,8,9
+437,438,49,Male,Bipolar Disorder,10,8,6,1,8
+438,439,48,Female,Major Depressive Disorder,10,6,9,6,5
+439,440,36,Female,Panic Disorder,5,5,4,8,8
+440,441,40,Male,Panic Disorder,9,6,8,2,6
+441,442,37,Male,Major Depressive Disorder,10,7,9,1,5
+442,443,53,Female,Generalized Anxiety,7,3,4,10,8
+443,444,27,Male,Panic Disorder,9,3,4,5,10
+444,445,59,Male,Major Depressive Disorder,6,7,9,9,6
+445,446,35,Female,Bipolar Disorder,6,8,8,1,10
+446,447,39,Female,Panic Disorder,5,3,9,10,9
+447,448,33,Male,Bipolar Disorder,8,5,7,1,5
+448,449,52,Female,Generalized Anxiety,10,7,8,8,5
+449,450,25,Male,Bipolar Disorder,9,3,7,7,7
+450,451,20,Female,Generalized Anxiety,9,7,7,5,10
+451,452,52,Male,Major Depressive Disorder,7,8,5,9,8
+452,453,58,Male,Bipolar Disorder,10,5,5,2,7
+453,454,44,Male,Major Depressive Disorder,5,8,5,10,10
+454,455,18,Male,Generalized Anxiety,9,4,7,4,8
+455,456,21,Female,Generalized Anxiety,9,4,4,4,10
+456,457,18,Male,Panic Disorder,9,3,7,5,5
+457,458,30,Male,Major Depressive Disorder,6,5,8,2,10
+458,459,28,Male,Generalized Anxiety,5,8,9,6,7
+459,460,18,Female,Panic Disorder,8,6,7,2,7
+460,461,40,Male,Major Depressive Disorder,8,7,6,3,9
+461,462,25,Female,Bipolar Disorder,8,8,8,4,7
+462,463,31,Female,Bipolar Disorder,6,4,6,2,7
+463,464,37,Male,Panic Disorder,5,5,4,8,8
+464,465,24,Female,Major Depressive Disorder,10,4,9,2,10
+465,466,56,Male,Generalized Anxiety,6,6,7,6,5
+466,467,45,Female,Bipolar Disorder,5,4,9,6,8
+467,468,57,Female,Generalized Anxiety,8,4,6,8,8
+468,469,50,Male,Bipolar Disorder,8,4,6,3,9
+469,470,55,Male,Panic Disorder,6,4,7,6,8
+470,471,60,Male,Major Depressive Disorder,8,4,4,8,5
+471,472,38,Male,Bipolar Disorder,9,5,7,3,6
+472,473,59,Male,Bipolar Disorder,8,8,6,4,6
+473,474,49,Female,Major Depressive Disorder,5,3,7,4,9
+474,475,20,Male,Generalized Anxiety,7,7,9,9,8
+475,476,39,Female,Generalized Anxiety,5,3,8,2,5
+476,477,40,Male,Panic Disorder,5,5,4,7,8
+477,478,60,Female,Bipolar Disorder,8,3,7,9,9
+478,479,29,Male,Bipolar Disorder,10,5,5,6,10
+479,480,55,Male,Major Depressive Disorder,6,4,6,2,6
+480,481,58,Female,Generalized Anxiety,8,5,7,7,10
+481,482,36,Female,Generalized Anxiety,5,3,5,10,6
+482,483,60,Male,Major Depressive Disorder,5,8,7,4,6
+483,484,60,Male,Major Depressive Disorder,6,5,4,1,10
+484,485,32,Male,Bipolar Disorder,8,8,6,3,10
+485,486,58,Male,Generalized Anxiety,5,3,7,6,5
+486,487,24,Female,Generalized Anxiety,5,8,9,7,10
+487,488,56,Male,Major Depressive Disorder,5,8,9,10,5
+488,489,27,Female,Bipolar Disorder,8,4,6,6,8
+489,490,60,Male,Bipolar Disorder,8,3,7,6,9
+490,491,33,Female,Bipolar Disorder,10,3,7,1,10
+491,492,42,Male,Panic Disorder,10,3,7,10,8
+492,493,18,Male,Bipolar Disorder,10,5,8,7,8
+493,494,23,Male,Panic Disorder,9,4,8,2,8
+494,495,19,Male,Major Depressive Disorder,8,5,5,2,7
+495,496,24,Male,Generalized Anxiety,10,4,8,6,9
+496,497,22,Male,Panic Disorder,5,6,6,7,6
+497,498,23,Male,Major Depressive Disorder,7,3,4,2,5
+498,499,48,Male,Bipolar Disorder,9,4,6,9,6
+499,500,58,Male,Bipolar Disorder,5,7,6,2,6
