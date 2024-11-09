@@ -1,4 +1,4 @@
-Person ID,Gender,Age,Occupation,Sleep Duration,Sleep Quality,Physical Activity Level,Stress Level,BMI Category,Daily Steps,Sleep Disorder
+person_id,gender,age,occupation,sleep_duration,sleep_quality,physical_activity_level,stress_level,bmi_category,daily_steps,sleep_disorder
 1,Male,27,Software Engineer,6.1,6,42,6,Overweight,4200,Nothing
 2,Male,28,Doctor,6.2,6,60,8,Normal,10000,Nothing
 3,Male,28,Doctor,6.2,6,60,8,Normal,10000,Nothing
