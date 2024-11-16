@@ -7,6 +7,12 @@ USE miniproject_ironhack;
 -- Show tables
 SHOW TABLES;
 
+-- Eliminate the restrictions
+
+ALTER TABLE symptoms DROP FOREIGN KEY patient_id;
+ALTER TABLE therapy DROP FOREIGN KEY  patient_id;
+ALTER TABLE lifestyle_and_sleep DROP FOREIGN KEY  patient_id;
+ALTER TABLE patients DROP PRIMARY KEY;
 
 -- Create patient_id columns in all tables as primary key 
 ALTER TABLE patients
