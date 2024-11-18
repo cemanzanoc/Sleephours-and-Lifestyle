@@ -39,7 +39,7 @@ GROUP BY ls.age
 ORDER BY avg_sleep_duration ASC
 LIMIT 10; 
 
--- 1.4 TOP 10 AGES with the quality lower that 7
+-- 1.4 TOP 10 AGES with the sleep quality lower that 7
 SELECT 
 	round(AVG(ls.sleep_quality),2) as 'avg_sleep_quality', 
     ROUND(AVG(ls.sleep_duration),2) as 'avg_sleep_duration', 
