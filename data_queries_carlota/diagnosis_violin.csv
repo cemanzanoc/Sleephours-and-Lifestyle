@@ -1,0 +1,9 @@
+gender,avg_sleep_quality,diagnosis
+Female,6.25,"Major Depressive Disorder"
+Male,6.09,"Panic Disorder"
+Male,6.58,"Generalized Anxiety"
+Female,7.00,"Panic Disorder"
+Female,6.67,"Generalized Anxiety"
+Male,6.45,"Bipolar Disorder"
+Female,6.77,"Bipolar Disorder"
+Male,6.08,"Major Depressive Disorder"

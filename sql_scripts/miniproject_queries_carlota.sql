@@ -15,6 +15,24 @@ FROM lifestyle_and_sleep ls
 GROUP BY ls.age
 ORDER BY ls.age DESC; 
 
+-- age range
+
+SELECT 
+	ROUND(AVG(ls.sleep_quality),2) as 'avg_sleep_quality', 
+    ROUND(AVG(ls.sleep_duration),2) as 'avg_sleep_duration', 
+     CASE
+        WHEN ls.age BETWEEN 0 AND 18 THEN '0-18'
+        WHEN ls.age BETWEEN 19 AND 35 THEN '19-35'
+        WHEN ls.age BETWEEN 36 AND 50 THEN '36-50'
+        WHEN ls.age BETWEEN 51 AND 65 THEN '51-65'
+        ELSE '65+'
+    END AS age_range
+
+
+FROM lifestyle_and_sleep ls
+GROUP BY age_range
+ORDER BY age_range DESC; 
+
 -- 1.2 TOP 10 AGES with the greatest average sleep duration
 SELECT 
 	round(AVG(ls.sleep_quality),2) as 'avg_sleep_quality', 
@@ -59,27 +77,41 @@ LIMIT 10;
 -- 1.5 Compare with the symptoms
 
 SELECT 
-	p.age as 'age', 
-    avg(ls.sleep_quality) as 'avg_sleep_quality', 
-    avg(ls.sleep_duration) as 'avg_sleep_duration', 
+	CASE
+        WHEN p.age BETWEEN 0 AND 18 THEN '0-18'
+        WHEN p.age BETWEEN 19 AND 35 THEN '19-35'
+        WHEN p.age BETWEEN 36 AND 50 THEN '36-50'
+        WHEN p.age BETWEEN 51 AND 65 THEN '51-65'
+        ELSE '65+'
+    END AS age_range,
+    ROUND(avg(ls.sleep_quality),2) as 'avg_sleep_quality', 
+    ROUND(avg(ls.sleep_duration),2) as 'avg_sleep_duration', 
     s.diagnosis as 'diagnosis'
 
 FROM patients p
 INNER JOIN lifestyle_and_sleep ls
 ON ls.age = p.age
-INNER JOIN symptoms s
+LEFT JOIN symptoms s
 ON s.age = p.age
 GROUP BY  p.age, s.diagnosis 
-HAVING avg_sleep_quality < 6; 
+HAVING avg_sleep_quality < 7; 
+
+-- COUNT 
 
 -- we can observe that people with avg_sleep_quality < 6 their age are in [28,34] and in general, have bipolar and anxiety disorder
 
 -- 1.5 Compare with the symptoms
 
 SELECT 
-	p.age as 'age', 
-    avg(ls.sleep_quality) as 'avg_sleep_quality', 
-    avg(ls.sleep_duration) as 'avg_sleep_duration', 
+	CASE
+        WHEN p.age BETWEEN 0 AND 18 THEN '0-18'
+        WHEN p.age BETWEEN 19 AND 35 THEN '19-35'
+        WHEN p.age BETWEEN 36 AND 50 THEN '36-50'
+        WHEN p.age BETWEEN 51 AND 65 THEN '51-65'
+        ELSE '65+'
+    END AS age_range,
+    ROUND(avg(ls.sleep_quality),2) as 'avg_sleep_quality', 
+    ROUND(avg(ls.sleep_duration),2) as 'avg_sleep_duration', 
     s.diagnosis as 'diagnosis'
 
 FROM patients p
@@ -89,9 +121,36 @@ INNER JOIN symptoms s
 ON s.age = p.age
 GROUP BY  p.age, s.diagnosis 
 HAVING avg_sleep_duration < (SELECT ROUND(AVG(sleep_duration),2) FROM lifestyle_and_sleep); 
+-- COUNT 
 
+SELECT 
+		CASE
+        WHEN s.age BETWEEN 0 AND 18 THEN '0-18'
+        WHEN s.age BETWEEN 19 AND 35 THEN '19-35'
+        WHEN s.age BETWEEN 36 AND 50 THEN '36-50'
+        WHEN s.age BETWEEN 51 AND 65 THEN '51-65'
+        ELSE '65+'
+    END AS age_range,
+    ROUND(AVG(s.sleep_quality),2) as 'avg_sleep_quality',
+    s.diagnosis, 
+    COUNT(s.diagnosis) as 'diagnosis_count'
 
-SELECT ROUND(AVG(sleep_duration),2) FROM lifestyle_and_sleep;
+FROM symptoms s
+GROUP BY age_range, s.diagnosis; 
+
+SELECT 
+	s.age,
+    ROUND(AVG(s.sleep_quality),2) as 'avg_sleep_quality',
+    s.diagnosis, 
+    COUNT(s.diagnosis) as 'diagnosis_count'
+
+FROM symptoms s
+GROUP BY s.diagnosis, s.age;  -- sacar grafica
+
+SELECT ROUND(AVG(sleep_quality),2) as average_total_of_sleep_quality FROM symptoms;
+
+SELECT ROUND(AVG(sleep_duration),2) as average_total_of_sleep_duration FROM lifestyle_and_sleep;
+SELECT ROUND(AVG(sleep_quality),2) as average_total_of_sleep_quality FROM lifestyle_and_sleep;
 -- the average of sleep duration is 7.13
 
 
