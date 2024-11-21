@@ -71,8 +71,8 @@ The project findings were presented in a detailed presentation, which includes:
 |------------|------------------------------------------|
 | **Celia Manzano** | [GitHub Profile](https://github.com/cemanzanoc) |
 | **Carlota Gordillo** | [GitHub Profile](https://github.com/carlotagordillo2) |
-| **Ana Pineda** | [GitHub Profile]() |
-| **Laura Sánchez** | [GitHub Profile]() |
+| **Ana Pineda** | [GitHub Profile](https://github.com/asdianita) |
+| **Laura Sánchez** | [GitHub Profile](https://github.com/laurasanchez20) |
 ----
 
 Feel free to reach out for any questions or suggestions!
