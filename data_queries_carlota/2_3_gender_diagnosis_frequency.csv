@@ -1,0 +1,9 @@
+gender,diagnosis,frequency
+Male,"Generalized Anxiety",72
+Male,"Panic Disorder",65
+Male,"Major Depressive Disorder",65
+Male,"Bipolar Disorder",64
+Female,"Generalized Anxiety",63
+Female,"Major Depressive Disorder",60
+Female,"Bipolar Disorder",60
+Female,"Panic Disorder",51

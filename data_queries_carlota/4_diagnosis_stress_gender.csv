@@ -1,0 +1,9 @@
+gender,diagnosis,avg_stress_level
+Male,"Major Depressive Disorder",7.3846
+Male,"Generalized Anxiety",7.4444
+Female,"Bipolar Disorder",7.5000
+Female,"Generalized Anxiety",7.5079
+Male,"Panic Disorder",7.5538
+Female,"Major Depressive Disorder",7.6333
+Male,"Bipolar Disorder",7.6719
+Female,"Panic Disorder",7.6863
