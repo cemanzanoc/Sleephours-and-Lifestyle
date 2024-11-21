@@ -1,0 +1,17 @@
+age_range,diagnosis,diagnosis_count,avg_stress
+0-18,"Major Depressive Disorder",1,10.00
+0-18,"Panic Disorder",5,8.00
+0-18,"Generalized Anxiety",1,8.00
+0-18,"Bipolar Disorder",5,7.20
+19-35,"Generalized Anxiety",56,7.68
+19-35,"Panic Disorder",55,7.64
+19-35,"Bipolar Disorder",49,7.61
+19-35,"Major Depressive Disorder",53,7.26
+36-50,"Major Depressive Disorder",43,7.84
+36-50,"Panic Disorder",30,7.83
+36-50,"Bipolar Disorder",46,7.72
+36-50,"Generalized Anxiety",38,7.63
+51-65,"Bipolar Disorder",24,7.38
+51-65,"Major Depressive Disorder",28,7.36
+51-65,"Panic Disorder",26,7.23
+51-65,"Generalized Anxiety",40,7.03

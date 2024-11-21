@@ -1,0 +1,22 @@
+age_range,occupation,occupation_count,avg_stress
+19-35,"Sales Representative",2,8.00
+19-35,Doctor,65,7.02
+19-35,Scientist,4,7.00
+19-35,Nurse,5,6.40
+19-35,"Software Engineer",4,6.00
+19-35,Teacher,3,5.67
+19-35,Accountant,2,5.00
+19-35,Lawyer,1,5.00
+19-35,Engineer,8,3.75
+36-50,Nurse,31,7.81
+36-50,Salesperson,32,7.00
+36-50,Engineer,24,5.08
+36-50,Lawyer,46,5.07
+36-50,Manager,1,5.00
+36-50,Teacher,37,4.43
+36-50,Accountant,29,4.07
+36-50,Doctor,4,4.00
+51-65,Accountant,6,7.00
+51-65,Nurse,37,3.54
+51-65,Engineer,31,3.00
+51-65,Doctor,2,3.00

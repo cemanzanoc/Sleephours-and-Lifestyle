@@ -1,0 +1,36 @@
+diagnosis,gender,num_patients,age_range
+"Bipolar Disorder",Female,3,0-18
+"Bipolar Disorder",Male,2,0-18
+"Bipolar Disorder",Female,24,19-35
+"Bipolar Disorder",Male,25,19-35
+"Bipolar Disorder",Female,19,36-50
+"Bipolar Disorder",Male,27,36-50
+"Bipolar Disorder",Female,14,51-65
+"Bipolar Disorder",Male,10,51-65
+"Generalized Anxiety",Male,1,0-18
+"Generalized Anxiety",Female,19,19-35
+"Generalized Anxiety",Male,37,19-35
+"Generalized Anxiety",Female,21,36-50
+"Generalized Anxiety",Male,17,36-50
+"Generalized Anxiety",Female,23,51-65
+"Generalized Anxiety",Male,17,51-65
+"Major Depressive Disorder",Male,1,0-18
+"Major Depressive Disorder",Female,29,19-35
+"Major Depressive Disorder",Male,24,19-35
+"Major Depressive Disorder",Female,20,36-50
+"Major Depressive Disorder",Male,23,36-50
+"Major Depressive Disorder",Female,11,51-65
+"Major Depressive Disorder",Male,17,51-65
+"No diagnosis",Female,10,19-35
+"No diagnosis",Male,84,19-35
+"No diagnosis",Female,99,36-50
+"No diagnosis",Male,105,36-50
+"No diagnosis",Female,76,51-65
+"Panic Disorder",Female,1,0-18
+"Panic Disorder",Male,4,0-18
+"Panic Disorder",Female,24,19-35
+"Panic Disorder",Male,31,19-35
+"Panic Disorder",Female,12,36-50
+"Panic Disorder",Male,18,36-50
+"Panic Disorder",Female,14,51-65
+"Panic Disorder",Male,12,51-65
