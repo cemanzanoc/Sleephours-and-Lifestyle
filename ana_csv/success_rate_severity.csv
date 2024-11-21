@@ -1,0 +1,27 @@
+diagnosis,symptom_severity,therapy_type,outcome_deteriorated,outcome_improved,outcome_nochange,occurrence_count,success_rate
+"Bipolar Disorder",10,"Mindfulness-Based Therapy",1,4,1,6,0.6667
+"Bipolar Disorder",9,"Interpersonal Therapy",2,2,0,4,0.5000
+"Bipolar Disorder",8,"Cognitive Behavioral Therapy",3,4,0,7,0.5714
+"Bipolar Disorder",7,"Dialectical Behavioral Therapy",2,2,0,4,0.5000
+"Bipolar Disorder",6,"Dialectical Behavioral Therapy",1,3,0,4,0.7500
+"Bipolar Disorder",5,"Interpersonal Therapy",2,3,2,7,0.4286
+"Generalized Anxiety",10,"Mindfulness-Based Therapy",3,3,0,6,0.5000
+"Generalized Anxiety",9,"Cognitive Behavioral Therapy",0,3,0,3,1.0000
+"Generalized Anxiety",8,"Mindfulness-Based Therapy",2,3,0,5,0.6000
+"Generalized Anxiety",7,"Interpersonal Therapy",2,2,2,6,0.3333
+"Generalized Anxiety",6,"Cognitive Behavioral Therapy",0,1,1,2,0.5000
+"Generalized Anxiety",5,"Interpersonal Therapy",0,2,1,3,0.6667
+"Major Depressive Disorder",10,"Interpersonal Therapy",1,2,4,7,0.2857
+"Major Depressive Disorder",9,"Dialectical Behavioral Therapy",1,1,1,3,0.3333
+"Major Depressive Disorder",9,"Cognitive Behavioral Therapy",1,1,1,3,0.3333
+"Major Depressive Disorder",8,"Cognitive Behavioral Therapy",1,4,0,5,0.8000
+"Major Depressive Disorder",7,"Cognitive Behavioral Therapy",2,5,2,9,0.5556
+"Major Depressive Disorder",6,"Dialectical Behavioral Therapy",2,2,0,4,0.5000
+"Major Depressive Disorder",5,"Interpersonal Therapy",0,2,3,5,0.4000
+"Panic Disorder",10,"Mindfulness-Based Therapy",0,1,0,1,1.0000
+"Panic Disorder",9,"Interpersonal Therapy",1,3,2,6,0.5000
+"Panic Disorder",8,"Mindfulness-Based Therapy",1,2,0,3,0.6667
+"Panic Disorder",7,"Cognitive Behavioral Therapy",0,1,1,2,0.5000
+"Panic Disorder",6,"Dialectical Behavioral Therapy",2,4,2,8,0.5000
+"Panic Disorder",6,"Interpersonal Therapy",1,1,0,2,0.5000
+"Panic Disorder",5,"Dialectical Behavioral Therapy",0,4,2,6,0.6667

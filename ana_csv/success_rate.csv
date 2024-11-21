@@ -1,0 +1,5 @@
+diagnosis,therapy_type,outcome_deteriorated,outcome_improved,outcome_nochange,occurrence_count,success_rate
+"Bipolar Disorder","Dialectical Behavioral Therapy",11,12,7,30,0.4000
+"Generalized Anxiety","Mindfulness-Based Therapy",14,16,7,37,0.4324
+"Major Depressive Disorder","Cognitive Behavioral Therapy",13,13,9,35,0.3714
+"Panic Disorder","Dialectical Behavioral Therapy",7,14,11,32,0.4375

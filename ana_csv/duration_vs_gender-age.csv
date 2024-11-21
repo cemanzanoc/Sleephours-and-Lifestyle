@@ -1,0 +1,416 @@
+diagnosis,treatment_duration_(weeks),symptom_severity,gender,age_range
+"Bipolar Disorder",16,10,Female,0-18
+"Bipolar Disorder",14,10,Female,19-35
+"Bipolar Disorder",16,10,Female,19-35
+"Bipolar Disorder",11,10,Female,35-50
+"Bipolar Disorder",8,10,Female,50-65
+"Bipolar Disorder",10,10,Female,50-65
+"Bipolar Disorder",8,10,Female,19-35
+"Bipolar Disorder",9,10,Female,19-35
+"Bipolar Disorder",12,9,Female,50-65
+"Bipolar Disorder",15,9,Female,50-65
+"Bipolar Disorder",15,9,Female,35-50
+"Bipolar Disorder",13,9,Female,19-35
+"Bipolar Disorder",9,9,Female,35-50
+"Bipolar Disorder",8,9,Female,35-50
+"Bipolar Disorder",14,9,Female,35-50
+"Bipolar Disorder",11,9,Female,19-35
+"Bipolar Disorder",15,9,Female,19-35
+"Bipolar Disorder",9,8,Female,19-35
+"Bipolar Disorder",13,8,Female,19-35
+"Bipolar Disorder",11,8,Female,0-18
+"Bipolar Disorder",10,8,Female,50-65
+"Bipolar Disorder",13,8,Female,35-50
+"Bipolar Disorder",14,8,Female,35-50
+"Bipolar Disorder",11,8,Female,50-65
+"Bipolar Disorder",15,8,Female,50-65
+"Bipolar Disorder",14,8,Female,19-35
+"Bipolar Disorder",8,8,Female,35-50
+"Bipolar Disorder",9,8,Female,50-65
+"Bipolar Disorder",16,7,Female,35-50
+"Bipolar Disorder",11,7,Female,50-65
+"Bipolar Disorder",14,7,Female,50-65
+"Bipolar Disorder",8,7,Female,19-35
+"Bipolar Disorder",11,7,Female,19-35
+"Bipolar Disorder",12,7,Female,35-50
+"Bipolar Disorder",9,7,Female,35-50
+"Bipolar Disorder",15,7,Female,19-35
+"Bipolar Disorder",9,7,Female,50-65
+"Bipolar Disorder",14,6,Female,19-35
+"Bipolar Disorder",12,6,Female,50-65
+"Bipolar Disorder",14,6,Female,35-50
+"Bipolar Disorder",15,6,Female,19-35
+"Bipolar Disorder",16,6,Female,19-35
+"Bipolar Disorder",10,6,Female,19-35
+"Bipolar Disorder",9,6,Female,50-65
+"Bipolar Disorder",10,5,Female,19-35
+"Bipolar Disorder",12,5,Female,19-35
+"Bipolar Disorder",15,5,Female,19-35
+"Bipolar Disorder",12,5,Female,35-50
+"Bipolar Disorder",9,5,Female,35-50
+"Bipolar Disorder",14,5,Female,35-50
+"Bipolar Disorder",11,5,Female,19-35
+"Bipolar Disorder",14,5,Female,19-35
+"Bipolar Disorder",15,5,Female,35-50
+"Bipolar Disorder",13,5,Female,0-18
+"Bipolar Disorder",12,10,Male,35-50
+"Bipolar Disorder",10,10,Male,35-50
+"Bipolar Disorder",11,10,Male,0-18
+"Bipolar Disorder",9,10,Male,19-35
+"Bipolar Disorder",11,10,Male,50-65
+"Bipolar Disorder",16,10,Male,50-65
+"Bipolar Disorder",13,10,Male,19-35
+"Bipolar Disorder",14,10,Male,19-35
+"Bipolar Disorder",16,10,Male,19-35
+"Bipolar Disorder",16,10,Male,35-50
+"Bipolar Disorder",14,10,Male,35-50
+"Bipolar Disorder",15,9,Male,35-50
+"Bipolar Disorder",12,9,Male,35-50
+"Bipolar Disorder",15,9,Male,19-35
+"Bipolar Disorder",10,9,Male,35-50
+"Bipolar Disorder",12,9,Male,0-18
+"Bipolar Disorder",16,9,Male,19-35
+"Bipolar Disorder",8,9,Male,35-50
+"Bipolar Disorder",9,9,Male,19-35
+"Bipolar Disorder",12,8,Male,19-35
+"Bipolar Disorder",15,8,Male,19-35
+"Bipolar Disorder",14,8,Male,35-50
+"Bipolar Disorder",9,8,Male,50-65
+"Bipolar Disorder",13,8,Male,50-65
+"Bipolar Disorder",16,8,Male,19-35
+"Bipolar Disorder",8,8,Male,35-50
+"Bipolar Disorder",12,8,Male,35-50
+"Bipolar Disorder",13,8,Male,19-35
+"Bipolar Disorder",10,8,Male,50-65
+"Bipolar Disorder",11,8,Male,19-35
+"Bipolar Disorder",10,8,Male,35-50
+"Bipolar Disorder",9,7,Male,35-50
+"Bipolar Disorder",10,7,Male,19-35
+"Bipolar Disorder",12,7,Male,50-65
+"Bipolar Disorder",11,7,Male,35-50
+"Bipolar Disorder",13,7,Male,35-50
+"Bipolar Disorder",15,7,Male,19-35
+"Bipolar Disorder",11,6,Male,50-65
+"Bipolar Disorder",16,6,Male,35-50
+"Bipolar Disorder",13,6,Male,19-35
+"Bipolar Disorder",16,6,Male,19-35
+"Bipolar Disorder",9,6,Male,19-35
+"Bipolar Disorder",9,6,Male,35-50
+"Bipolar Disorder",12,6,Male,19-35
+"Bipolar Disorder",9,5,Male,35-50
+"Bipolar Disorder",8,5,Male,19-35
+"Bipolar Disorder",14,5,Male,35-50
+"Bipolar Disorder",15,5,Male,35-50
+"Bipolar Disorder",12,5,Male,35-50
+"Bipolar Disorder",14,5,Male,50-65
+"Bipolar Disorder",11,5,Male,19-35
+"Bipolar Disorder",10,5,Male,50-65
+"Generalized Anxiety",11,10,Female,50-65
+"Generalized Anxiety",15,10,Female,35-50
+"Generalized Anxiety",8,10,Female,19-35
+"Generalized Anxiety",12,10,Female,19-35
+"Generalized Anxiety",15,10,Female,50-65
+"Generalized Anxiety",16,10,Female,50-65
+"Generalized Anxiety",14,10,Female,35-50
+"Generalized Anxiety",14,10,Female,19-35
+"Generalized Anxiety",13,10,Female,35-50
+"Generalized Anxiety",12,10,Female,35-50
+"Generalized Anxiety",10,10,Female,19-35
+"Generalized Anxiety",9,10,Female,50-65
+"Generalized Anxiety",8,10,Female,50-65
+"Generalized Anxiety",12,10,Female,50-65
+"Generalized Anxiety",10,9,Female,19-35
+"Generalized Anxiety",11,9,Female,19-35
+"Generalized Anxiety",16,9,Female,35-50
+"Generalized Anxiety",10,9,Female,50-65
+"Generalized Anxiety",9,9,Female,50-65
+"Generalized Anxiety",11,9,Female,50-65
+"Generalized Anxiety",16,9,Female,50-65
+"Generalized Anxiety",13,9,Female,35-50
+"Generalized Anxiety",11,8,Female,50-65
+"Generalized Anxiety",8,8,Female,50-65
+"Generalized Anxiety",9,8,Female,19-35
+"Generalized Anxiety",15,8,Female,50-65
+"Generalized Anxiety",12,8,Female,35-50
+"Generalized Anxiety",10,8,Female,35-50
+"Generalized Anxiety",9,8,Female,35-50
+"Generalized Anxiety",14,8,Female,50-65
+"Generalized Anxiety",11,8,Female,35-50
+"Generalized Anxiety",12,7,Female,35-50
+"Generalized Anxiety",9,7,Female,19-35
+"Generalized Anxiety",8,7,Female,19-35
+"Generalized Anxiety",11,7,Female,19-35
+"Generalized Anxiety",14,7,Female,50-65
+"Generalized Anxiety",13,7,Female,50-65
+"Generalized Anxiety",8,7,Female,35-50
+"Generalized Anxiety",9,7,Female,50-65
+"Generalized Anxiety",12,7,Female,50-65
+"Generalized Anxiety",14,7,Female,19-35
+"Generalized Anxiety",13,7,Female,19-35
+"Generalized Anxiety",12,7,Female,19-35
+"Generalized Anxiety",13,6,Female,35-50
+"Generalized Anxiety",9,6,Female,35-50
+"Generalized Anxiety",12,6,Female,35-50
+"Generalized Anxiety",16,6,Female,50-65
+"Generalized Anxiety",10,5,Female,19-35
+"Generalized Anxiety",15,5,Female,35-50
+"Generalized Anxiety",15,5,Female,50-65
+"Generalized Anxiety",16,5,Female,35-50
+"Generalized Anxiety",15,5,Female,19-35
+"Generalized Anxiety",13,5,Female,19-35
+"Generalized Anxiety",14,5,Female,35-50
+"Generalized Anxiety",16,5,Female,50-65
+"Generalized Anxiety",15,10,Male,50-65
+"Generalized Anxiety",13,10,Male,19-35
+"Generalized Anxiety",8,10,Male,19-35
+"Generalized Anxiety",12,10,Male,50-65
+"Generalized Anxiety",9,10,Male,50-65
+"Generalized Anxiety",10,10,Male,50-65
+"Generalized Anxiety",14,10,Male,19-35
+"Generalized Anxiety",16,10,Male,35-50
+"Generalized Anxiety",8,10,Male,50-65
+"Generalized Anxiety",15,10,Male,19-35
+"Generalized Anxiety",10,9,Male,19-35
+"Generalized Anxiety",11,9,Male,19-35
+"Generalized Anxiety",12,9,Male,0-18
+"Generalized Anxiety",10,9,Male,35-50
+"Generalized Anxiety",15,9,Male,19-35
+"Generalized Anxiety",14,9,Male,35-50
+"Generalized Anxiety",9,9,Male,50-65
+"Generalized Anxiety",13,9,Male,19-35
+"Generalized Anxiety",16,9,Male,19-35
+"Generalized Anxiety",14,9,Male,19-35
+"Generalized Anxiety",9,8,Male,50-65
+"Generalized Anxiety",14,8,Male,50-65
+"Generalized Anxiety",14,8,Male,35-50
+"Generalized Anxiety",8,8,Male,19-35
+"Generalized Anxiety",11,8,Male,19-35
+"Generalized Anxiety",15,8,Male,19-35
+"Generalized Anxiety",14,8,Male,19-35
+"Generalized Anxiety",11,7,Male,19-35
+"Generalized Anxiety",12,7,Male,35-50
+"Generalized Anxiety",13,7,Male,19-35
+"Generalized Anxiety",16,7,Male,35-50
+"Generalized Anxiety",14,7,Male,35-50
+"Generalized Anxiety",9,7,Male,50-65
+"Generalized Anxiety",9,7,Male,19-35
+"Generalized Anxiety",15,7,Male,19-35
+"Generalized Anxiety",13,7,Male,50-65
+"Generalized Anxiety",11,7,Male,35-50
+"Generalized Anxiety",10,6,Male,50-65
+"Generalized Anxiety",15,6,Male,35-50
+"Generalized Anxiety",16,6,Male,19-35
+"Generalized Anxiety",15,6,Male,19-35
+"Generalized Anxiety",14,6,Male,35-50
+"Generalized Anxiety",13,6,Male,35-50
+"Generalized Anxiety",12,6,Male,35-50
+"Generalized Anxiety",13,6,Male,50-65
+"Generalized Anxiety",13,6,Male,19-35
+"Generalized Anxiety",12,6,Male,19-35
+"Generalized Anxiety",16,6,Male,50-65
+"Generalized Anxiety",9,6,Male,50-65
+"Generalized Anxiety",8,5,Male,19-35
+"Generalized Anxiety",9,5,Male,35-50
+"Generalized Anxiety",14,5,Male,19-35
+"Generalized Anxiety",8,5,Male,50-65
+"Generalized Anxiety",12,5,Male,35-50
+"Generalized Anxiety",16,5,Male,19-35
+"Generalized Anxiety",10,5,Male,19-35
+"Generalized Anxiety",14,5,Male,35-50
+"Generalized Anxiety",16,5,Male,50-65
+"Major Depressive Disorder",8,10,Female,19-35
+"Major Depressive Disorder",16,10,Female,19-35
+"Major Depressive Disorder",11,10,Female,19-35
+"Major Depressive Disorder",9,10,Female,35-50
+"Major Depressive Disorder",11,10,Female,35-50
+"Major Depressive Disorder",9,10,Female,50-65
+"Major Depressive Disorder",15,10,Female,50-65
+"Major Depressive Disorder",15,10,Female,19-35
+"Major Depressive Disorder",14,10,Female,19-35
+"Major Depressive Disorder",15,10,Female,35-50
+"Major Depressive Disorder",13,10,Female,19-35
+"Major Depressive Disorder",13,9,Female,50-65
+"Major Depressive Disorder",11,9,Female,35-50
+"Major Depressive Disorder",16,9,Female,19-35
+"Major Depressive Disorder",9,9,Female,19-35
+"Major Depressive Disorder",10,9,Female,50-65
+"Major Depressive Disorder",9,8,Female,50-65
+"Major Depressive Disorder",8,8,Female,19-35
+"Major Depressive Disorder",11,8,Female,19-35
+"Major Depressive Disorder",10,8,Female,35-50
+"Major Depressive Disorder",12,8,Female,19-35
+"Major Depressive Disorder",11,8,Female,50-65
+"Major Depressive Disorder",12,8,Female,35-50
+"Major Depressive Disorder",16,8,Female,35-50
+"Major Depressive Disorder",13,8,Female,35-50
+"Major Depressive Disorder",15,7,Female,19-35
+"Major Depressive Disorder",10,7,Female,35-50
+"Major Depressive Disorder",12,7,Female,19-35
+"Major Depressive Disorder",11,7,Female,35-50
+"Major Depressive Disorder",14,7,Female,19-35
+"Major Depressive Disorder",14,7,Female,35-50
+"Major Depressive Disorder",8,6,Female,19-35
+"Major Depressive Disorder",14,6,Female,19-35
+"Major Depressive Disorder",16,6,Female,35-50
+"Major Depressive Disorder",16,6,Female,50-65
+"Major Depressive Disorder",13,6,Female,35-50
+"Major Depressive Disorder",9,6,Female,50-65
+"Major Depressive Disorder",15,6,Female,19-35
+"Major Depressive Disorder",9,6,Female,35-50
+"Major Depressive Disorder",14,6,Female,50-65
+"Major Depressive Disorder",15,5,Female,19-35
+"Major Depressive Disorder",12,5,Female,19-35
+"Major Depressive Disorder",12,5,Female,50-65
+"Major Depressive Disorder",9,5,Female,19-35
+"Major Depressive Disorder",13,5,Female,35-50
+"Major Depressive Disorder",12,5,Female,35-50
+"Major Depressive Disorder",10,5,Female,19-35
+"Major Depressive Disorder",9,5,Female,35-50
+"Major Depressive Disorder",8,5,Female,19-35
+"Major Depressive Disorder",16,10,Male,19-35
+"Major Depressive Disorder",10,10,Male,19-35
+"Major Depressive Disorder",16,10,Male,35-50
+"Major Depressive Disorder",9,10,Male,35-50
+"Major Depressive Disorder",10,10,Male,50-65
+"Major Depressive Disorder",10,9,Male,19-35
+"Major Depressive Disorder",10,9,Male,35-50
+"Major Depressive Disorder",14,9,Male,35-50
+"Major Depressive Disorder",12,9,Male,35-50
+"Major Depressive Disorder",13,9,Male,50-65
+"Major Depressive Disorder",12,8,Male,19-35
+"Major Depressive Disorder",11,8,Male,35-50
+"Major Depressive Disorder",9,8,Male,35-50
+"Major Depressive Disorder",9,8,Male,19-35
+"Major Depressive Disorder",13,8,Male,50-65
+"Major Depressive Disorder",12,8,Male,50-65
+"Major Depressive Disorder",15,8,Male,35-50
+"Major Depressive Disorder",8,8,Male,50-65
+"Major Depressive Disorder",11,8,Male,19-35
+"Major Depressive Disorder",14,8,Male,50-65
+"Major Depressive Disorder",14,8,Male,19-35
+"Major Depressive Disorder",16,8,Male,35-50
+"Major Depressive Disorder",8,8,Male,19-35
+"Major Depressive Disorder",14,7,Male,50-65
+"Major Depressive Disorder",9,7,Male,35-50
+"Major Depressive Disorder",10,7,Male,35-50
+"Major Depressive Disorder",8,7,Male,35-50
+"Major Depressive Disorder",13,7,Male,19-35
+"Major Depressive Disorder",11,7,Male,19-35
+"Major Depressive Disorder",10,7,Male,19-35
+"Major Depressive Disorder",13,6,Male,50-65
+"Major Depressive Disorder",12,6,Male,19-35
+"Major Depressive Disorder",10,6,Male,19-35
+"Major Depressive Disorder",11,6,Male,50-65
+"Major Depressive Disorder",15,6,Male,19-35
+"Major Depressive Disorder",14,6,Male,50-65
+"Major Depressive Disorder",12,6,Male,50-65
+"Major Depressive Disorder",9,6,Male,19-35
+"Major Depressive Disorder",11,6,Male,35-50
+"Major Depressive Disorder",12,6,Male,35-50
+"Major Depressive Disorder",16,6,Male,19-35
+"Major Depressive Disorder",15,6,Male,35-50
+"Major Depressive Disorder",9,5,Male,50-65
+"Major Depressive Disorder",9,5,Male,35-50
+"Major Depressive Disorder",11,5,Male,50-65
+"Major Depressive Disorder",13,5,Male,35-50
+"Major Depressive Disorder",12,5,Male,35-50
+"Major Depressive Disorder",14,5,Male,19-35
+"Major Depressive Disorder",11,5,Male,19-35
+"Major Depressive Disorder",14,5,Male,35-50
+"Major Depressive Disorder",12,5,Male,0-18
+"Major Depressive Disorder",13,5,Male,50-65
+"Panic Disorder",14,10,Female,19-35
+"Panic Disorder",12,10,Female,19-35
+"Panic Disorder",16,10,Female,19-35
+"Panic Disorder",15,10,Female,19-35
+"Panic Disorder",12,10,Female,50-65
+"Panic Disorder",12,10,Female,35-50
+"Panic Disorder",16,9,Female,50-65
+"Panic Disorder",11,9,Female,19-35
+"Panic Disorder",14,9,Female,35-50
+"Panic Disorder",16,9,Female,19-35
+"Panic Disorder",8,9,Female,35-50
+"Panic Disorder",10,9,Female,50-65
+"Panic Disorder",10,9,Female,19-35
+"Panic Disorder",13,8,Female,19-35
+"Panic Disorder",11,8,Female,19-35
+"Panic Disorder",10,8,Female,19-35
+"Panic Disorder",8,8,Female,50-65
+"Panic Disorder",9,8,Female,35-50
+"Panic Disorder",13,8,Female,50-65
+"Panic Disorder",10,8,Female,50-65
+"Panic Disorder",16,8,Female,0-18
+"Panic Disorder",9,8,Female,19-35
+"Panic Disorder",14,7,Female,35-50
+"Panic Disorder",15,7,Female,19-35
+"Panic Disorder",10,7,Female,19-35
+"Panic Disorder",8,7,Female,19-35
+"Panic Disorder",9,7,Female,50-65
+"Panic Disorder",12,7,Female,50-65
+"Panic Disorder",8,6,Female,19-35
+"Panic Disorder",8,6,Female,50-65
+"Panic Disorder",11,6,Female,50-65
+"Panic Disorder",13,6,Female,19-35
+"Panic Disorder",15,6,Female,35-50
+"Panic Disorder",11,6,Female,35-50
+"Panic Disorder",12,6,Female,19-35
+"Panic Disorder",13,5,Female,35-50
+"Panic Disorder",15,5,Female,19-35
+"Panic Disorder",14,5,Female,35-50
+"Panic Disorder",16,5,Female,35-50
+"Panic Disorder",12,5,Female,19-35
+"Panic Disorder",11,5,Female,50-65
+"Panic Disorder",10,5,Female,50-65
+"Panic Disorder",9,10,Male,50-65
+"Panic Disorder",13,10,Male,35-50
+"Panic Disorder",13,10,Male,19-35
+"Panic Disorder",15,9,Male,19-35
+"Panic Disorder",10,9,Male,35-50
+"Panic Disorder",12,9,Male,19-35
+"Panic Disorder",13,9,Male,0-18
+"Panic Disorder",15,9,Male,0-18
+"Panic Disorder",12,9,Male,50-65
+"Panic Disorder",11,9,Male,35-50
+"Panic Disorder",14,9,Male,35-50
+"Panic Disorder",8,9,Male,35-50
+"Panic Disorder",9,9,Male,19-35
+"Panic Disorder",11,9,Male,19-35
+"Panic Disorder",13,9,Male,50-65
+"Panic Disorder",10,8,Male,19-35
+"Panic Disorder",16,8,Male,35-50
+"Panic Disorder",9,8,Male,19-35
+"Panic Disorder",15,8,Male,19-35
+"Panic Disorder",16,8,Male,19-35
+"Panic Disorder",11,8,Male,19-35
+"Panic Disorder",12,8,Male,19-35
+"Panic Disorder",13,8,Male,19-35
+"Panic Disorder",12,8,Male,50-65
+"Panic Disorder",14,7,Male,50-65
+"Panic Disorder",13,7,Male,19-35
+"Panic Disorder",14,7,Male,19-35
+"Panic Disorder",11,7,Male,19-35
+"Panic Disorder",12,7,Male,50-65
+"Panic Disorder",13,7,Male,35-50
+"Panic Disorder",15,7,Male,35-50
+"Panic Disorder",16,7,Male,0-18
+"Panic Disorder",12,7,Male,19-35
+"Panic Disorder",10,7,Male,35-50
+"Panic Disorder",13,7,Male,0-18
+"Panic Disorder",9,6,Male,19-35
+"Panic Disorder",14,6,Male,50-65
+"Panic Disorder",15,6,Male,35-50
+"Panic Disorder",14,6,Male,35-50
+"Panic Disorder",16,6,Male,19-35
+"Panic Disorder",11,6,Male,35-50
+"Panic Disorder",9,5,Male,35-50
+"Panic Disorder",12,5,Male,35-50
+"Panic Disorder",10,5,Male,50-65
+"Panic Disorder",8,5,Male,35-50
+"Panic Disorder",13,5,Male,19-35
+"Panic Disorder",9,5,Male,19-35
+"Panic Disorder",11,5,Male,19-35
+"Panic Disorder",11,5,Male,50-65
+"Panic Disorder",12,5,Male,19-35
+"Panic Disorder",10,5,Male,19-35
+"Panic Disorder",13,5,Male,50-65
+"Panic Disorder",9,5,Male,50-65

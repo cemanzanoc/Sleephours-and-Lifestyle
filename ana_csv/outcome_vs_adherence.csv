@@ -1,0 +1,489 @@
+diagnosis,outcome,symptom_severity,gender,adherence_range,age_range
+"Bipolar Disorder",Deteriorated,10,Female,80,50-65
+"Bipolar Disorder",Improved,10,Female,86,19-35
+"Bipolar Disorder",Deteriorated,10,Female,83,19-35
+"Bipolar Disorder",Improved,10,Female,68,19-35
+"Bipolar Disorder",Deteriorated,10,Female,87,19-35
+"Bipolar Disorder","No Change",10,Female,89,0-18
+"Bipolar Disorder","No Change",10,Female,62,19-35
+"Bipolar Disorder","No Change",10,Female,65,35-50
+"Bipolar Disorder",Improved,9,Female,68,50-65
+"Bipolar Disorder",Improved,9,Female,71,19-35
+"Bipolar Disorder",Deteriorated,9,Female,61,50-65
+"Bipolar Disorder","No Change",9,Female,83,35-50
+"Bipolar Disorder","No Change",9,Female,77,35-50
+"Bipolar Disorder",Improved,9,Female,83,35-50
+"Bipolar Disorder",Deteriorated,9,Female,73,19-35
+"Bipolar Disorder",Deteriorated,9,Female,75,35-50
+"Bipolar Disorder",Deteriorated,9,Female,61,19-35
+"Bipolar Disorder",Deteriorated,8,Female,87,35-50
+"Bipolar Disorder",Deteriorated,8,Female,72,35-50
+"Bipolar Disorder",Improved,8,Female,68,50-65
+"Bipolar Disorder",Improved,8,Female,66,35-50
+"Bipolar Disorder","No Change",8,Female,87,50-65
+"Bipolar Disorder","No Change",8,Female,83,19-35
+"Bipolar Disorder","No Change",8,Female,87,0-18
+"Bipolar Disorder",Improved,8,Female,64,50-65
+"Bipolar Disorder",Deteriorated,8,Female,86,19-35
+"Bipolar Disorder","No Change",8,Female,78,19-35
+"Bipolar Disorder",Improved,8,Female,61,35-50
+"Bipolar Disorder","No Change",8,Female,75,19-35
+"Bipolar Disorder",Deteriorated,8,Female,89,50-65
+"Bipolar Disorder",Improved,7,Female,81,50-65
+"Bipolar Disorder","No Change",7,Female,74,19-35
+"Bipolar Disorder",Deteriorated,7,Female,79,35-50
+"Bipolar Disorder","No Change",7,Female,77,50-65
+"Bipolar Disorder",Deteriorated,7,Female,68,19-35
+"Bipolar Disorder",Deteriorated,7,Female,63,35-50
+"Bipolar Disorder",Deteriorated,7,Female,66,19-35
+"Bipolar Disorder",Improved,7,Female,67,50-65
+"Bipolar Disorder",Improved,7,Female,72,35-50
+"Bipolar Disorder",Improved,6,Female,74,19-35
+"Bipolar Disorder","No Change",6,Female,78,50-65
+"Bipolar Disorder",Improved,6,Female,83,19-35
+"Bipolar Disorder","No Change",6,Female,82,35-50
+"Bipolar Disorder",Deteriorated,6,Female,87,19-35
+"Bipolar Disorder","No Change",6,Female,87,19-35
+"Bipolar Disorder",Improved,6,Female,61,50-65
+"Bipolar Disorder","No Change",5,Female,90,19-35
+"Bipolar Disorder",Deteriorated,5,Female,88,35-50
+"Bipolar Disorder",Improved,5,Female,65,35-50
+"Bipolar Disorder",Deteriorated,5,Female,77,35-50
+"Bipolar Disorder","No Change",5,Female,75,19-35
+"Bipolar Disorder",Deteriorated,5,Female,87,19-35
+"Bipolar Disorder","No Change",5,Female,85,19-35
+"Bipolar Disorder",Deteriorated,5,Female,87,35-50
+"Bipolar Disorder","No Change",5,Female,68,0-18
+"Bipolar Disorder",Deteriorated,5,Female,85,19-35
+"Bipolar Disorder",Improved,10,Male,88,35-50
+"Bipolar Disorder",Improved,10,Male,80,19-35
+"Bipolar Disorder",Deteriorated,10,Male,68,50-65
+"Bipolar Disorder",Improved,10,Male,73,35-50
+"Bipolar Disorder",Deteriorated,10,Male,70,50-65
+"Bipolar Disorder","No Change",10,Male,63,50-65
+"Bipolar Disorder",Improved,10,Male,71,0-18
+"Bipolar Disorder",Improved,10,Male,60,35-50
+"Bipolar Disorder",Improved,10,Male,78,19-35
+"Bipolar Disorder","No Change",10,Male,82,19-35
+"Bipolar Disorder",Improved,10,Male,64,35-50
+"Bipolar Disorder","No Change",10,Male,69,19-35
+"Bipolar Disorder","No Change",10,Male,86,19-35
+"Bipolar Disorder",Deteriorated,10,Male,87,35-50
+"Bipolar Disorder",Improved,9,Male,83,0-18
+"Bipolar Disorder",Improved,9,Male,73,35-50
+"Bipolar Disorder","No Change",9,Male,89,35-50
+"Bipolar Disorder","No Change",9,Male,76,35-50
+"Bipolar Disorder","No Change",9,Male,63,35-50
+"Bipolar Disorder","No Change",9,Male,82,19-35
+"Bipolar Disorder","No Change",9,Male,90,19-35
+"Bipolar Disorder",Deteriorated,9,Male,82,19-35
+"Bipolar Disorder",Deteriorated,9,Male,65,35-50
+"Bipolar Disorder",Deteriorated,8,Male,90,35-50
+"Bipolar Disorder",Deteriorated,8,Male,86,19-35
+"Bipolar Disorder","No Change",8,Male,73,19-35
+"Bipolar Disorder",Improved,8,Male,65,35-50
+"Bipolar Disorder",Improved,8,Male,79,19-35
+"Bipolar Disorder",Improved,8,Male,87,50-65
+"Bipolar Disorder",Deteriorated,8,Male,69,35-50
+"Bipolar Disorder",Improved,8,Male,62,35-50
+"Bipolar Disorder",Improved,8,Male,63,50-65
+"Bipolar Disorder",Improved,8,Male,72,19-35
+"Bipolar Disorder",Improved,8,Male,60,19-35
+"Bipolar Disorder",Deteriorated,8,Male,77,35-50
+"Bipolar Disorder",Deteriorated,8,Male,68,35-50
+"Bipolar Disorder",Deteriorated,8,Male,84,50-65
+"Bipolar Disorder",Improved,8,Male,86,19-35
+"Bipolar Disorder","No Change",7,Male,77,19-35
+"Bipolar Disorder",Deteriorated,7,Male,87,35-50
+"Bipolar Disorder",Improved,7,Male,62,35-50
+"Bipolar Disorder",Deteriorated,7,Male,86,35-50
+"Bipolar Disorder",Deteriorated,7,Male,63,35-50
+"Bipolar Disorder",Improved,7,Male,84,50-65
+"Bipolar Disorder",Deteriorated,7,Male,90,19-35
+"Bipolar Disorder",Improved,6,Male,65,19-35
+"Bipolar Disorder",Improved,6,Male,62,50-65
+"Bipolar Disorder",Deteriorated,6,Male,76,35-50
+"Bipolar Disorder","No Change",6,Male,60,35-50
+"Bipolar Disorder","No Change",6,Male,72,19-35
+"Bipolar Disorder",Improved,6,Male,82,19-35
+"Bipolar Disorder",Deteriorated,6,Male,83,19-35
+"Bipolar Disorder",Deteriorated,6,Male,75,19-35
+"Bipolar Disorder",Improved,5,Male,82,35-50
+"Bipolar Disorder","No Change",5,Male,63,35-50
+"Bipolar Disorder","No Change",5,Male,67,50-65
+"Bipolar Disorder",Improved,5,Male,83,19-35
+"Bipolar Disorder",Deteriorated,5,Male,70,50-65
+"Bipolar Disorder",Improved,5,Male,85,35-50
+"Bipolar Disorder",Improved,5,Male,87,19-35
+"Bipolar Disorder",Deteriorated,5,Male,67,35-50
+"Bipolar Disorder",Deteriorated,5,Male,68,19-35
+"Bipolar Disorder",Improved,5,Male,88,35-50
+"Generalized Anxiety","No Change",10,Female,82,19-35
+"Generalized Anxiety","No Change",10,Female,72,35-50
+"Generalized Anxiety","No Change",10,Female,87,19-35
+"Generalized Anxiety","No Change",10,Female,66,35-50
+"Generalized Anxiety",Deteriorated,10,Female,81,50-65
+"Generalized Anxiety","No Change",10,Female,69,50-65
+"Generalized Anxiety","No Change",10,Female,84,19-35
+"Generalized Anxiety",Deteriorated,10,Female,68,50-65
+"Generalized Anxiety",Improved,10,Female,77,19-35
+"Generalized Anxiety",Deteriorated,10,Female,85,19-35
+"Generalized Anxiety","No Change",10,Female,89,50-65
+"Generalized Anxiety",Improved,10,Female,69,35-50
+"Generalized Anxiety",Deteriorated,10,Female,76,50-65
+"Generalized Anxiety","No Change",10,Female,76,50-65
+"Generalized Anxiety",Improved,10,Female,63,35-50
+"Generalized Anxiety",Improved,9,Female,85,19-35
+"Generalized Anxiety",Improved,9,Female,87,50-65
+"Generalized Anxiety","No Change",9,Female,79,50-65
+"Generalized Anxiety",Improved,9,Female,65,35-50
+"Generalized Anxiety",Improved,9,Female,81,50-65
+"Generalized Anxiety",Deteriorated,9,Female,66,19-35
+"Generalized Anxiety","No Change",9,Female,66,35-50
+"Generalized Anxiety",Improved,9,Female,86,50-65
+"Generalized Anxiety",Deteriorated,8,Female,74,35-50
+"Generalized Anxiety",Deteriorated,8,Female,63,50-65
+"Generalized Anxiety",Deteriorated,8,Female,89,50-65
+"Generalized Anxiety",Deteriorated,8,Female,88,35-50
+"Generalized Anxiety",Improved,8,Female,72,50-65
+"Generalized Anxiety",Improved,8,Female,75,50-65
+"Generalized Anxiety",Improved,8,Female,75,19-35
+"Generalized Anxiety",Improved,8,Female,73,35-50
+"Generalized Anxiety",Deteriorated,8,Female,85,35-50
+"Generalized Anxiety",Improved,7,Female,79,19-35
+"Generalized Anxiety",Improved,7,Female,66,19-35
+"Generalized Anxiety",Deteriorated,7,Female,62,19-35
+"Generalized Anxiety","No Change",7,Female,89,19-35
+"Generalized Anxiety","No Change",7,Female,74,35-50
+"Generalized Anxiety","No Change",7,Female,84,50-65
+"Generalized Anxiety","No Change",7,Female,82,19-35
+"Generalized Anxiety","No Change",7,Female,69,19-35
+"Generalized Anxiety","No Change",7,Female,61,50-65
+"Generalized Anxiety","No Change",7,Female,88,35-50
+"Generalized Anxiety","No Change",7,Female,66,19-35
+"Generalized Anxiety",Deteriorated,7,Female,73,50-65
+"Generalized Anxiety",Improved,7,Female,89,19-35
+"Generalized Anxiety",Improved,7,Female,72,50-65
+"Generalized Anxiety",Deteriorated,7,Female,83,35-50
+"Generalized Anxiety",Deteriorated,7,Female,86,50-65
+"Generalized Anxiety",Deteriorated,6,Female,90,35-50
+"Generalized Anxiety","No Change",6,Female,65,35-50
+"Generalized Anxiety",Deteriorated,6,Female,84,35-50
+"Generalized Anxiety",Deteriorated,6,Female,61,35-50
+"Generalized Anxiety",Deteriorated,6,Female,84,50-65
+"Generalized Anxiety","No Change",5,Female,81,35-50
+"Generalized Anxiety",Improved,5,Female,67,19-35
+"Generalized Anxiety","No Change",5,Female,67,50-65
+"Generalized Anxiety","No Change",5,Female,69,19-35
+"Generalized Anxiety","No Change",5,Female,90,35-50
+"Generalized Anxiety","No Change",5,Female,80,35-50
+"Generalized Anxiety","No Change",5,Female,61,19-35
+"Generalized Anxiety",Improved,5,Female,77,35-50
+"Generalized Anxiety",Improved,5,Female,90,50-65
+"Generalized Anxiety",Deteriorated,10,Male,72,19-35
+"Generalized Anxiety",Deteriorated,10,Male,83,50-65
+"Generalized Anxiety",Improved,10,Male,61,35-50
+"Generalized Anxiety",Improved,10,Male,84,19-35
+"Generalized Anxiety",Deteriorated,10,Male,76,50-65
+"Generalized Anxiety",Deteriorated,10,Male,87,50-65
+"Generalized Anxiety","No Change",10,Male,71,50-65
+"Generalized Anxiety",Improved,10,Male,73,19-35
+"Generalized Anxiety",Improved,10,Male,73,50-65
+"Generalized Anxiety",Improved,10,Male,66,19-35
+"Generalized Anxiety",Improved,10,Male,89,19-35
+"Generalized Anxiety","No Change",9,Male,65,19-35
+"Generalized Anxiety",Deteriorated,9,Male,72,19-35
+"Generalized Anxiety",Improved,9,Male,60,19-35
+"Generalized Anxiety",Improved,9,Male,72,0-18
+"Generalized Anxiety","No Change",9,Male,84,35-50
+"Generalized Anxiety",Improved,9,Male,62,19-35
+"Generalized Anxiety",Improved,9,Male,64,19-35
+"Generalized Anxiety","No Change",9,Male,63,19-35
+"Generalized Anxiety",Deteriorated,9,Male,61,19-35
+"Generalized Anxiety",Improved,9,Male,80,35-50
+"Generalized Anxiety",Improved,9,Male,76,19-35
+"Generalized Anxiety",Improved,9,Male,85,19-35
+"Generalized Anxiety","No Change",9,Male,73,50-65
+"Generalized Anxiety",Improved,9,Male,79,19-35
+"Generalized Anxiety",Improved,9,Male,61,19-35
+"Generalized Anxiety","No Change",8,Male,88,19-35
+"Generalized Anxiety",Improved,8,Male,69,19-35
+"Generalized Anxiety",Deteriorated,8,Male,82,50-65
+"Generalized Anxiety","No Change",8,Male,70,35-50
+"Generalized Anxiety",Deteriorated,8,Male,75,19-35
+"Generalized Anxiety",Improved,8,Male,67,19-35
+"Generalized Anxiety",Improved,8,Male,85,50-65
+"Generalized Anxiety",Improved,7,Male,64,19-35
+"Generalized Anxiety","No Change",7,Male,81,19-35
+"Generalized Anxiety",Improved,7,Male,89,19-35
+"Generalized Anxiety",Deteriorated,7,Male,89,35-50
+"Generalized Anxiety","No Change",7,Male,73,19-35
+"Generalized Anxiety","No Change",7,Male,77,35-50
+"Generalized Anxiety",Deteriorated,7,Male,64,50-65
+"Generalized Anxiety","No Change",7,Male,79,50-65
+"Generalized Anxiety",Deteriorated,7,Male,78,35-50
+"Generalized Anxiety","No Change",7,Male,62,19-35
+"Generalized Anxiety",Deteriorated,7,Male,66,19-35
+"Generalized Anxiety",Improved,7,Male,85,35-50
+"Generalized Anxiety",Deteriorated,6,Male,88,19-35
+"Generalized Anxiety",Improved,6,Male,88,35-50
+"Generalized Anxiety","No Change",6,Male,62,35-50
+"Generalized Anxiety","No Change",6,Male,77,19-35
+"Generalized Anxiety",Improved,6,Male,70,19-35
+"Generalized Anxiety",Improved,6,Male,77,19-35
+"Generalized Anxiety",Deteriorated,6,Male,79,50-65
+"Generalized Anxiety",Deteriorated,6,Male,84,50-65
+"Generalized Anxiety","No Change",6,Male,77,50-65
+"Generalized Anxiety","No Change",6,Male,90,19-35
+"Generalized Anxiety","No Change",6,Male,85,50-65
+"Generalized Anxiety","No Change",6,Male,81,35-50
+"Generalized Anxiety",Deteriorated,6,Male,66,50-65
+"Generalized Anxiety",Improved,6,Male,87,35-50
+"Generalized Anxiety",Improved,6,Male,76,35-50
+"Generalized Anxiety",Improved,5,Male,68,50-65
+"Generalized Anxiety",Improved,5,Male,90,19-35
+"Generalized Anxiety",Improved,5,Male,65,35-50
+"Generalized Anxiety",Improved,5,Male,63,50-65
+"Generalized Anxiety",Improved,5,Male,86,19-35
+"Generalized Anxiety",Deteriorated,5,Male,76,19-35
+"Generalized Anxiety","No Change",5,Male,73,19-35
+"Generalized Anxiety","No Change",5,Male,65,35-50
+"Generalized Anxiety",Deteriorated,5,Male,70,35-50
+"Generalized Anxiety",Deteriorated,5,Male,86,19-35
+"Generalized Anxiety",Improved,5,Male,88,35-50
+"Major Depressive Disorder",Deteriorated,10,Female,71,19-35
+"Major Depressive Disorder","No Change",10,Female,62,35-50
+"Major Depressive Disorder",Deteriorated,10,Female,68,35-50
+"Major Depressive Disorder",Deteriorated,10,Female,63,50-65
+"Major Depressive Disorder","No Change",10,Female,80,19-35
+"Major Depressive Disorder","No Change",10,Female,70,19-35
+"Major Depressive Disorder",Improved,10,Female,81,35-50
+"Major Depressive Disorder",Deteriorated,10,Female,66,35-50
+"Major Depressive Disorder",Improved,10,Female,78,19-35
+"Major Depressive Disorder","No Change",10,Female,77,50-65
+"Major Depressive Disorder",Deteriorated,10,Female,67,19-35
+"Major Depressive Disorder",Deteriorated,10,Female,76,19-35
+"Major Depressive Disorder","No Change",10,Female,83,19-35
+"Major Depressive Disorder","No Change",10,Female,74,35-50
+"Major Depressive Disorder","No Change",10,Female,75,19-35
+"Major Depressive Disorder",Improved,9,Female,61,19-35
+"Major Depressive Disorder","No Change",9,Female,85,19-35
+"Major Depressive Disorder","No Change",9,Female,78,35-50
+"Major Depressive Disorder",Deteriorated,9,Female,83,50-65
+"Major Depressive Disorder",Deteriorated,9,Female,60,50-65
+"Major Depressive Disorder",Deteriorated,9,Female,66,50-65
+"Major Depressive Disorder",Deteriorated,8,Female,62,35-50
+"Major Depressive Disorder","No Change",8,Female,85,35-50
+"Major Depressive Disorder",Improved,8,Female,82,50-65
+"Major Depressive Disorder","No Change",8,Female,82,19-35
+"Major Depressive Disorder",Deteriorated,8,Female,86,19-35
+"Major Depressive Disorder",Improved,8,Female,67,35-50
+"Major Depressive Disorder","No Change",8,Female,76,19-35
+"Major Depressive Disorder",Deteriorated,8,Female,62,50-65
+"Major Depressive Disorder",Improved,7,Female,83,35-50
+"Major Depressive Disorder",Deteriorated,7,Female,65,19-35
+"Major Depressive Disorder",Improved,7,Female,75,19-35
+"Major Depressive Disorder",Deteriorated,7,Female,81,35-50
+"Major Depressive Disorder",Improved,7,Female,70,19-35
+"Major Depressive Disorder",Deteriorated,7,Female,75,19-35
+"Major Depressive Disorder","No Change",7,Female,79,35-50
+"Major Depressive Disorder",Improved,7,Female,82,19-35
+"Major Depressive Disorder",Improved,7,Female,71,19-35
+"Major Depressive Disorder",Improved,6,Female,61,35-50
+"Major Depressive Disorder",Deteriorated,6,Female,87,35-50
+"Major Depressive Disorder",Deteriorated,6,Female,66,50-65
+"Major Depressive Disorder","No Change",6,Female,67,19-35
+"Major Depressive Disorder",Deteriorated,6,Female,72,19-35
+"Major Depressive Disorder","No Change",6,Female,60,35-50
+"Major Depressive Disorder",Deteriorated,6,Female,78,50-65
+"Major Depressive Disorder",Deteriorated,6,Female,90,19-35
+"Major Depressive Disorder",Deteriorated,6,Female,62,50-65
+"Major Depressive Disorder","No Change",6,Female,74,19-35
+"Major Depressive Disorder",Improved,5,Female,65,19-35
+"Major Depressive Disorder",Improved,5,Female,76,19-35
+"Major Depressive Disorder",Deteriorated,5,Female,79,35-50
+"Major Depressive Disorder",Improved,5,Female,72,35-50
+"Major Depressive Disorder",Improved,5,Female,64,35-50
+"Major Depressive Disorder","No Change",5,Female,74,19-35
+"Major Depressive Disorder",Deteriorated,5,Female,65,19-35
+"Major Depressive Disorder","No Change",5,Female,88,19-35
+"Major Depressive Disorder","No Change",5,Female,84,50-65
+"Major Depressive Disorder","No Change",5,Female,85,19-35
+"Major Depressive Disorder","No Change",5,Female,72,35-50
+"Major Depressive Disorder",Improved,10,Male,86,35-50
+"Major Depressive Disorder","No Change",10,Male,74,35-50
+"Major Depressive Disorder","No Change",10,Male,63,35-50
+"Major Depressive Disorder",Deteriorated,10,Male,78,50-65
+"Major Depressive Disorder","No Change",10,Male,90,19-35
+"Major Depressive Disorder",Deteriorated,10,Male,88,19-35
+"Major Depressive Disorder","No Change",10,Male,69,19-35
+"Major Depressive Disorder",Deteriorated,10,Male,62,35-50
+"Major Depressive Disorder","No Change",9,Male,60,35-50
+"Major Depressive Disorder",Improved,9,Male,67,19-35
+"Major Depressive Disorder",Improved,9,Male,80,35-50
+"Major Depressive Disorder","No Change",9,Male,85,35-50
+"Major Depressive Disorder","No Change",9,Male,85,50-65
+"Major Depressive Disorder","No Change",9,Male,74,50-65
+"Major Depressive Disorder",Improved,8,Male,84,35-50
+"Major Depressive Disorder","No Change",8,Male,67,35-50
+"Major Depressive Disorder",Improved,8,Male,85,50-65
+"Major Depressive Disorder","No Change",8,Male,84,35-50
+"Major Depressive Disorder",Deteriorated,8,Male,61,19-35
+"Major Depressive Disorder",Deteriorated,8,Male,81,50-65
+"Major Depressive Disorder",Improved,8,Male,75,50-65
+"Major Depressive Disorder","No Change",8,Male,75,19-35
+"Major Depressive Disorder",Deteriorated,8,Male,61,35-50
+"Major Depressive Disorder",Improved,8,Male,67,19-35
+"Major Depressive Disorder",Improved,8,Male,89,50-65
+"Major Depressive Disorder","No Change",8,Male,82,19-35
+"Major Depressive Disorder","No Change",8,Male,74,19-35
+"Major Depressive Disorder",Deteriorated,8,Male,83,19-35
+"Major Depressive Disorder",Improved,8,Male,70,19-35
+"Major Depressive Disorder","No Change",7,Male,79,19-35
+"Major Depressive Disorder",Deteriorated,7,Male,72,35-50
+"Major Depressive Disorder",Deteriorated,7,Male,74,50-65
+"Major Depressive Disorder",Deteriorated,7,Male,87,19-35
+"Major Depressive Disorder",Improved,7,Male,81,35-50
+"Major Depressive Disorder","No Change",7,Male,65,19-35
+"Major Depressive Disorder","No Change",7,Male,69,35-50
+"Major Depressive Disorder",Deteriorated,6,Male,62,50-65
+"Major Depressive Disorder",Improved,6,Male,85,50-65
+"Major Depressive Disorder",Deteriorated,6,Male,90,19-35
+"Major Depressive Disorder",Improved,6,Male,74,35-50
+"Major Depressive Disorder",Deteriorated,6,Male,76,50-65
+"Major Depressive Disorder","No Change",6,Male,83,19-35
+"Major Depressive Disorder","No Change",6,Male,75,19-35
+"Major Depressive Disorder",Improved,6,Male,85,19-35
+"Major Depressive Disorder",Improved,6,Male,60,19-35
+"Major Depressive Disorder","No Change",6,Male,83,35-50
+"Major Depressive Disorder",Deteriorated,6,Male,85,50-65
+"Major Depressive Disorder",Deteriorated,6,Male,90,35-50
+"Major Depressive Disorder","No Change",6,Male,86,19-35
+"Major Depressive Disorder",Improved,6,Male,70,19-35
+"Major Depressive Disorder","No Change",6,Male,72,50-65
+"Major Depressive Disorder",Deteriorated,5,Male,80,35-50
+"Major Depressive Disorder","No Change",5,Male,90,35-50
+"Major Depressive Disorder",Deteriorated,5,Male,67,19-35
+"Major Depressive Disorder",Deteriorated,5,Male,90,50-65
+"Major Depressive Disorder",Deteriorated,5,Male,81,35-50
+"Major Depressive Disorder",Deteriorated,5,Male,69,35-50
+"Major Depressive Disorder",Improved,5,Male,63,0-18
+"Major Depressive Disorder",Improved,5,Male,90,50-65
+"Major Depressive Disorder","No Change",5,Male,71,50-65
+"Major Depressive Disorder","No Change",5,Male,61,50-65
+"Major Depressive Disorder",Deteriorated,5,Male,75,19-35
+"Major Depressive Disorder","No Change",5,Male,62,19-35
+"Major Depressive Disorder","No Change",5,Male,64,35-50
+"Panic Disorder",Deteriorated,10,Female,77,50-65
+"Panic Disorder",Improved,10,Female,68,19-35
+"Panic Disorder",Improved,10,Female,69,19-35
+"Panic Disorder",Deteriorated,10,Female,64,19-35
+"Panic Disorder",Improved,10,Female,65,19-35
+"Panic Disorder",Deteriorated,10,Female,72,35-50
+"Panic Disorder",Deteriorated,9,Female,82,35-50
+"Panic Disorder",Deteriorated,9,Female,66,50-65
+"Panic Disorder",Deteriorated,9,Female,72,19-35
+"Panic Disorder","No Change",9,Female,89,19-35
+"Panic Disorder",Improved,9,Female,86,19-35
+"Panic Disorder",Improved,9,Female,64,19-35
+"Panic Disorder","No Change",9,Female,87,19-35
+"Panic Disorder",Deteriorated,9,Female,68,19-35
+"Panic Disorder","No Change",9,Female,80,19-35
+"Panic Disorder",Improved,9,Female,79,35-50
+"Panic Disorder","No Change",9,Female,79,50-65
+"Panic Disorder",Improved,9,Female,74,50-65
+"Panic Disorder",Deteriorated,8,Female,76,35-50
+"Panic Disorder",Deteriorated,8,Female,82,50-65
+"Panic Disorder","No Change",8,Female,68,50-65
+"Panic Disorder",Deteriorated,8,Female,89,19-35
+"Panic Disorder",Deteriorated,8,Female,77,19-35
+"Panic Disorder",Deteriorated,8,Female,63,19-35
+"Panic Disorder","No Change",8,Female,76,35-50
+"Panic Disorder",Improved,8,Female,88,0-18
+"Panic Disorder",Deteriorated,8,Female,66,19-35
+"Panic Disorder",Improved,8,Female,77,50-65
+"Panic Disorder",Improved,8,Female,73,19-35
+"Panic Disorder",Improved,8,Female,83,50-65
+"Panic Disorder",Deteriorated,7,Female,68,19-35
+"Panic Disorder","No Change",7,Female,87,19-35
+"Panic Disorder",Improved,7,Female,85,50-65
+"Panic Disorder",Deteriorated,7,Female,60,19-35
+"Panic Disorder",Improved,7,Female,63,35-50
+"Panic Disorder",Improved,6,Female,82,50-65
+"Panic Disorder",Deteriorated,6,Female,78,35-50
+"Panic Disorder",Improved,6,Female,86,19-35
+"Panic Disorder","No Change",6,Female,73,50-65
+"Panic Disorder",Deteriorated,6,Female,75,19-35
+"Panic Disorder",Improved,6,Female,73,19-35
+"Panic Disorder","No Change",6,Female,86,35-50
+"Panic Disorder",Deteriorated,6,Female,72,35-50
+"Panic Disorder","No Change",5,Female,67,35-50
+"Panic Disorder",Improved,5,Female,64,35-50
+"Panic Disorder","No Change",5,Female,64,19-35
+"Panic Disorder","No Change",5,Female,74,19-35
+"Panic Disorder",Improved,5,Female,89,35-50
+"Panic Disorder",Improved,5,Female,82,50-65
+"Panic Disorder","No Change",5,Female,85,50-65
+"Panic Disorder",Improved,10,Male,85,35-50
+"Panic Disorder",Deteriorated,10,Male,78,19-35
+"Panic Disorder",Deteriorated,10,Male,70,50-65
+"Panic Disorder",Deteriorated,9,Male,67,35-50
+"Panic Disorder",Deteriorated,9,Male,71,35-50
+"Panic Disorder",Deteriorated,9,Male,77,35-50
+"Panic Disorder","No Change",9,Male,84,0-18
+"Panic Disorder","No Change",9,Male,90,35-50
+"Panic Disorder",Improved,9,Male,65,19-35
+"Panic Disorder",Improved,9,Male,90,50-65
+"Panic Disorder",Deteriorated,9,Male,78,19-35
+"Panic Disorder",Deteriorated,9,Male,63,0-18
+"Panic Disorder",Improved,9,Male,66,19-35
+"Panic Disorder","No Change",9,Male,65,50-65
+"Panic Disorder",Deteriorated,9,Male,70,19-35
+"Panic Disorder",Improved,9,Male,60,19-35
+"Panic Disorder",Deteriorated,8,Male,75,19-35
+"Panic Disorder","No Change",8,Male,83,35-50
+"Panic Disorder",Improved,8,Male,90,19-35
+"Panic Disorder",Deteriorated,8,Male,73,19-35
+"Panic Disorder",Improved,8,Male,76,19-35
+"Panic Disorder","No Change",8,Male,82,19-35
+"Panic Disorder",Improved,8,Male,63,19-35
+"Panic Disorder",Improved,8,Male,71,19-35
+"Panic Disorder",Deteriorated,8,Male,62,50-65
+"Panic Disorder",Improved,8,Male,80,19-35
+"Panic Disorder","No Change",7,Male,67,35-50
+"Panic Disorder","No Change",7,Male,62,50-65
+"Panic Disorder",Deteriorated,7,Male,63,50-65
+"Panic Disorder","No Change",7,Male,78,19-35
+"Panic Disorder",Improved,7,Male,69,35-50
+"Panic Disorder","No Change",7,Male,70,19-35
+"Panic Disorder","No Change",7,Male,68,19-35
+"Panic Disorder","No Change",7,Male,60,19-35
+"Panic Disorder",Improved,7,Male,83,19-35
+"Panic Disorder",Deteriorated,7,Male,76,35-50
+"Panic Disorder","No Change",7,Male,69,0-18
+"Panic Disorder","No Change",7,Male,85,0-18
+"Panic Disorder",Deteriorated,7,Male,66,35-50
+"Panic Disorder","No Change",6,Male,71,19-35
+"Panic Disorder",Deteriorated,6,Male,62,35-50
+"Panic Disorder",Improved,6,Male,90,19-35
+"Panic Disorder",Improved,6,Male,78,35-50
+"Panic Disorder",Deteriorated,6,Male,73,35-50
+"Panic Disorder",Deteriorated,6,Male,85,19-35
+"Panic Disorder",Deteriorated,6,Male,72,50-65
+"Panic Disorder",Improved,6,Male,81,50-65
+"Panic Disorder",Improved,6,Male,85,19-35
+"Panic Disorder",Deteriorated,6,Male,80,35-50
+"Panic Disorder",Improved,6,Male,72,19-35
+"Panic Disorder","No Change",5,Male,88,35-50
+"Panic Disorder",Improved,5,Male,60,50-65
+"Panic Disorder","No Change",5,Male,76,19-35
+"Panic Disorder",Deteriorated,5,Male,69,50-65
+"Panic Disorder",Deteriorated,5,Male,74,35-50
+"Panic Disorder",Deteriorated,5,Male,67,19-35
+"Panic Disorder",Deteriorated,5,Male,80,19-35
+"Panic Disorder",Deteriorated,5,Male,69,35-50
+"Panic Disorder",Improved,5,Male,60,19-35
+"Panic Disorder",Improved,5,Male,87,50-65
+"Panic Disorder",Deteriorated,5,Male,85,50-65
+"Panic Disorder",Deteriorated,5,Male,86,19-35
+"Panic Disorder",Improved,5,Male,67,35-50
