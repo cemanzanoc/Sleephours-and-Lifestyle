@@ -1,0 +1,25 @@
+diagnosis,medication,patient_count
+"Bipolar Disorder",Antipsychotics,25
+"Bipolar Disorder","Mood Stabilizers",23
+"Bipolar Disorder",Antidepressants,22
+"Bipolar Disorder",Benzodiazepines,22
+"Bipolar Disorder",Anxiolytics,16
+"Bipolar Disorder",SSRIs,16
+"Generalized Anxiety","Mood Stabilizers",28
+"Generalized Anxiety",SSRIs,25
+"Generalized Anxiety",Antipsychotics,23
+"Generalized Anxiety",Benzodiazepines,22
+"Generalized Anxiety",Antidepressants,19
+"Generalized Anxiety",Anxiolytics,18
+"Major Depressive Disorder",Benzodiazepines,29
+"Major Depressive Disorder",Antidepressants,21
+"Major Depressive Disorder",Anxiolytics,20
+"Major Depressive Disorder",SSRIs,20
+"Major Depressive Disorder",Antipsychotics,19
+"Major Depressive Disorder","Mood Stabilizers",16
+"Panic Disorder",SSRIs,28
+"Panic Disorder",Antipsychotics,20
+"Panic Disorder","Mood Stabilizers",20
+"Panic Disorder",Anxiolytics,17
+"Panic Disorder",Benzodiazepines,17
+"Panic Disorder",Antidepressants,14
