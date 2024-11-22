@@ -46,17 +46,38 @@ Through comprehensive analysis, the project reveals critical insights:
 
 ## Project Structure 📁
 
-- `files/`: 
+- `clean_data/`:
+    -`cleaning.ipynb`: Jupyther Notebook created to clean data.
+    -`cleaning_celia.ipynb`: Jupyther Notebook created to clean data.
+    -`mental_health_cleaning.ipynb`: Jupyther Notebook created to clean data.
+    - `mental_health_symptoms_clean.csv`
+    - `mental_health_therapy_clean.csv`
+    - `patients.csv`
+    - `sleep_lifestyle_clean.csv`
+- `data_queries/`:
+    -`data_queries_ana`: data.
+    -`data_queries_carlota`: data.
+    -`data_queries_celia`: data.
+
+- `original_data/`:
+    -`Sleep_health_and_lifestyle_dataset.csv`.
+    -`mental_health_diagnosis_treatment_.csv`.
+  
+
+
   
 - `visualizations/`: Folder with all grahps creates to analyse. All of them have been created in `visualization_df.ipynb` Jupyter Notebook.
-- `sql/`: 
+    -`visualization_ana.ipynb`.
+    -`visualization_carlota.ipynb`.
+    -`visualization_celia.ipynb`.
+- `sql_scripts/`:
+    -`miniproject_ironhack_final.sql`.
 
-- `data_clean`: 
 - `presentation/`: 
   - `PDF_presentation/`: Folder to store PDF presentations.
 - `README.md`: File to describe the project and how to set it up.
-- `requirements.txt`: File to list the project dependencies.
-- `report.rd`: This file contains a extend explanation about the project.
+- `EDR_relation_sleep_and_mental_health.PNG`: Entity relational model.
+
 
 ## Project Presentation 🎤
 
