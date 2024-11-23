@@ -54,9 +54,9 @@ This explores the intersection of lifestyle factors and mental health. It presen
 ## Conclusion 📊
 Through comprehensive analysis, the project reveals critical insights:
 
-1. Stress and Sleep: High stress levels, especially in demanding occupations, have a significant negative impact on sleep quality.
-2. Age and Gender: Sleep quality is influenced by age and gender, though young employees are generally more at risk for mental health issues.
-3. Therapy Effectiveness: Current therapy methods show moderate success, underscoring the need for tailored approaches.
+1. **Stress and Sleep:** High stress levels, especially in demanding occupations, have a significant negative impact on sleep quality.
+2. **Age and Gender:** Sleep quality is influenced by age and gender, though young employees are generally more at risk for mental health issues.
+3. **Therapy Effectiveness:** Current therapy methods show moderate success, underscoring the need for tailored approaches.
 
 
 
