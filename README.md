@@ -12,6 +12,7 @@ This explores the intersection of lifestyle factors and mental health. It presen
   - Young adults (20-35 years) exhibit the lowest sleep quality and highest prevalence of mental health diagnoses.
   - While gender isn’t a risk factor for diagnoses, it influences sleep quality variations across diseases.
 
+![Descripción de la imagen](EDR_relation_sleep_and_mental_health.PNG)
 
 ## Functionality ⚙️
 
