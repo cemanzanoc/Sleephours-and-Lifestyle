@@ -16,6 +16,7 @@ This explores the intersection of lifestyle factors and mental health. It presen
 ## Functionality ⚙️
 
 - 🧹 **Data Structure**: Process raw data to remove inconsistencies and prepare it for analysis.
+- 🔍 **Data Querying**: Extracting specific information from databases by writing queries to filter, sort, and retrieve relevant data efficiently.
 - 📈 **Data Visualization**: Create visual representations of the data to identify trends and patterns.
 
 ## Tools Used 🛠️
@@ -29,10 +30,11 @@ This explores the intersection of lifestyle factors and mental health. It presen
 
 ## Development Process 🚀
 
-1. 📥 **Data Collection**: Gather datasets related to sleep, stress, physical activity, and diagnoses.
-2. 🧹 **Data Cleaning**: Drop duplicates, nan values and integrate all data frame. 
-3. 🔍 **Data Analysis**: Identify correlations, trends, and significant patterns.
-4. 📊 **Data Visualization**: Create graphs and charts to present findings effectively.
+1. 📥 **Data Collection**: Gather comprehensive datasets covering key factors such as sleep, stress levels, physical activity, and medical diagnoses.
+2. 🧹 **Data Cleaning**: Remove duplicates, handle missing values (NaNs), standardize column names, and integrate multiple data frames into a unified format. 
+3. 🔍 **Data Analysis**: Uncover meaningful correlations, trends, and patterns by applying statistical and exploratory techniques.
+4. 📊 **Data Visualization**: Generate insightful graphs, charts, and dashboards to effectively communicate the findings.
+
 
 ## Results 📊
 Through comprehensive analysis, the project reveals critical insights:
