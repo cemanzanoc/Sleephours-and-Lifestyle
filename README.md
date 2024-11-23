@@ -36,7 +36,7 @@ This explores the intersection of lifestyle factors and mental health. It presen
 4. 📊 **Data Visualization**: Generate insightful graphs, charts, and dashboards to effectively communicate the findings.
 
 
-## Entity Relation Model 🚀
+## Entity Relation Model 
 ![Descripción de la imagen](EDR_relation_sleep_and_mental_health.PNG)
 
 ## Results 📊
