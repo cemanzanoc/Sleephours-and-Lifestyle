@@ -7,10 +7,22 @@ This explores the intersection of lifestyle factors and mental health. It presen
   - Relationship between **sleep quality** and stress, BMI, age, and gender.
   - Mental health diagnosis trends across demographics.
   - Effectiveness of various mental health treatments.
-- **Insights**:
-  - Stress significantly impacts sleep quality, with differences observed across occupations.
-  - Young adults (20-35 years) exhibit the lowest sleep quality and highest prevalence of mental health diagnoses.
-  - While gender isn’t a risk factor for diagnoses, it influences sleep quality variations across diseases.
+- **Key Findings**
+    - **Lifestyle and Well-being**
+      -  Sleep and Stress
+
+        - High stress levels negatively impact sleep quality.
+        - The relationship between stress and sleep varies across occupations, highlighting the need for tailored well-being strategies.
+      - Physical Activity and Sleep
+
+        - A positive correlation exists between physical activity levels and sleep quality.
+  - **Mental Health Symptoms and Risks**
+    - Young workers (aged 20–35) are more likely to experience mental health issues.
+    - Men tend to have poorer sleep quality compared to women, though gender is not always a risk factor for specific diagnoses.
+  - **Mental Health Treatments**
+    - Therapy methods show moderate success rates (37%–44%), emphasizing the need for more personalized treatments.
+    - The average treatment duration is 3–4 months, with medication tailored to specific diagnoses.
+ 
 
 
 ## Functionality ⚙️
@@ -39,13 +51,12 @@ This explores the intersection of lifestyle factors and mental health. It presen
 ## Entity Relation Model 
 ![Descripción de la imagen](EDR_relation_sleep_and_mental_health.PNG)
 
-## Results 📊
+## Conclusion 📊
 Through comprehensive analysis, the project reveals critical insights:
 
-- Sleep quality decreases significantly in high-stress occupations.
-- Effective mental health treatments vary across diagnoses, with success rates such as:
-- Generalized Anxiety: 43.2% (Mindfulness-Based Therapy)
-- Panic Disorder: 43.8% (Dialectical Behavioral Therapy).
+1. Stress and Sleep: High stress levels, especially in demanding occupations, have a significant negative impact on sleep quality.
+2. Age and Gender: Sleep quality is influenced by age and gender, though young employees are generally more at risk for mental health issues.
+3. Therapy Effectiveness: Current therapy methods show moderate success, underscoring the need for tailored approaches.
 
 
 
