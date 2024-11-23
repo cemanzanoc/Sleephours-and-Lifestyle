@@ -9,13 +9,16 @@ This explores the intersection of lifestyle factors and mental health. It presen
   - Effectiveness of various mental health treatments.
 - **Key Findings**
     - **Lifestyle and Well-being**
-      -  Sleep and Stress
+      
+      -  *Sleep and Stress*
 
         - High stress levels negatively impact sleep quality.
         - The relationship between stress and sleep varies across occupations, highlighting the need for tailored well-being strategies.
-      - Physical Activity and Sleep
+          
+      -  *Physical Activity and Sleep*
 
         - A positive correlation exists between physical activity levels and sleep quality.
+          
   - **Mental Health Symptoms and Risks**
     - Young workers (aged 20–35) are more likely to experience mental health issues.
     - Men tend to have poorer sleep quality compared to women, though gender is not always a risk factor for specific diagnoses.
