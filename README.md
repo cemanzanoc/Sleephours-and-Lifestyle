@@ -10,12 +10,12 @@ This explores the intersection of lifestyle factors and mental health. It presen
 - **Key Findings**
     - **Lifestyle and Well-being**
       
-      -  *Sleep and Stress*
+       *Sleep and Stress*
 
         - High stress levels negatively impact sleep quality.
         - The relationship between stress and sleep varies across occupations, highlighting the need for tailored well-being strategies.
           
-      -  *Physical Activity and Sleep*
+       *Physical Activity and Sleep*
 
         - A positive correlation exists between physical activity levels and sleep quality.
           
