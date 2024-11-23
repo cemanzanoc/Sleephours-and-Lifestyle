@@ -56,7 +56,7 @@ Through comprehensive analysis, the project reveals critical insights:
     - `mental_health_therapy_clean.csv`
     - `patients.csv`
     - `sleep_lifestyle_clean.csv`
-- `data_queries/`:
+- `data_queries/`: csv created with sql queries to our visualization
     - `data_queries_ana`: data.
     - `data_queries_carlota`: data.
     - `data_queries_celia`: data.
@@ -74,6 +74,7 @@ Through comprehensive analysis, the project reveals critical insights:
     - `visualization_celia.ipynb`.
 - `sql_scripts/`:
     - `miniproject_ironhack_final.sql`.
+    - `sql_script_all`: extra sql files.
 
 - `presentation/`: 
   - `PDF_presentation/`: Folder to store PDF presentations.
